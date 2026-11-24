@@ -1,0 +1,43 @@
+{
+    "id": 75284,
+    "name": "Ilia Gruev",
+    "firstName": "Ilia",
+    "lastName": "Gruev",
+    "dateOfBirth": "2000-05-06",
+    "nationality": "Bulgaria",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-15T09:25:44Z",
+    "currentTeam": {
+        "area": {
+            "id": 2035,
+            "name": "Bulgaria",
+            "code": "BGR",
+            "flag": "https://crests.football-data.org/817.svg"
+        },
+        "id": 817,
+        "name": "Bulgaria",
+        "shortName": "Bulgaria",
+        "tla": "BUL",
+        "crest": "https://crests.football-data.org/817.png",
+        "address": "ulitsa \"Tsar Ivan Asen II\", 26 Sofia 1124",
+        "website": "http://www.bfunion.bg",
+        "founded": 1923,
+        "clubColors": "White / Red / Green",
+        "venue": "Stadion Vasil Levski",
+        "runningCompetitions": [
+            {
+                "id": 2182,
+                "name": "UEFA Nations League",
+                "code": "UNL",
+                "type": "CUP",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": "2022-09",
+            "until": null
+        }
+    }
+}

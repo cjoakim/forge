@@ -1,0 +1,43 @@
+{
+    "id": 121109,
+    "name": "Daniel Ballard",
+    "firstName": "Daniel",
+    "lastName": "Ballard",
+    "dateOfBirth": "1999-09-22",
+    "nationality": "Northern Ireland",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-15T09:25:43Z",
+    "currentTeam": {
+        "area": {
+            "id": 2171,
+            "name": "Northern Ireland",
+            "code": "NIR",
+            "flag": "https://crests.football-data.org/829.svg"
+        },
+        "id": 829,
+        "name": "Northern Ireland",
+        "shortName": "North. Ireland",
+        "tla": "NIR",
+        "crest": "https://crests.football-data.org/829.svg",
+        "address": "20 Windsor Avenue Belfast BT9 6EG",
+        "website": "http://www.irishfa.com",
+        "founded": 1880,
+        "clubColors": "Green / White",
+        "venue": "Windsor Park",
+        "runningCompetitions": [
+            {
+                "id": 2182,
+                "name": "UEFA Nations League",
+                "code": "UNL",
+                "type": "CUP",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": "2020-09",
+            "until": null
+        }
+    }
+}

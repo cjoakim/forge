@@ -1,0 +1,43 @@
+{
+    "id": 204348,
+    "name": "Michael Kayode",
+    "firstName": "Michael",
+    "lastName": "Kayode",
+    "dateOfBirth": "2004-07-10",
+    "nationality": "Italy",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-15T09:25:43Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 784,
+        "name": "Italy",
+        "shortName": "Italy",
+        "tla": "ITA",
+        "crest": "https://crests.football-data.org/784.svg",
+        "address": "Via Gregorio Allegri, 14 / CP 2450 Roma 00198",
+        "website": "http://www.figc.it",
+        "founded": 1898,
+        "clubColors": "Blue / White",
+        "venue": "Stadio Artemio Franchi",
+        "runningCompetitions": [
+            {
+                "id": 2182,
+                "name": "UEFA Nations League",
+                "code": "UNL",
+                "type": "CUP",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": null,
+            "until": null
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": 2253,
+    "name": "Joachim Andersen",
+    "firstName": "Joachim",
+    "lastName": "Andersen",
+    "dateOfBirth": "1996-05-31",
+    "nationality": "Denmark",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": 2,
+    "lastUpdated": "2026-07-15T09:25:43Z",
+    "currentTeam": {
+        "area": {
+            "id": 2065,
+            "name": "Denmark",
+            "code": "DNK",
+            "flag": "https://crests.football-data.org/782.svg"
+        },
+        "id": 782,
+        "name": "Denmark",
+        "shortName": "Denmark",
+        "tla": "DEN",
+        "crest": "https://crests.football-data.org/782.svg",
+        "address": "House of Football, DBU All\u00e9 1 Br\u00f8ndby 2605",
+        "website": "http://www.dbu.dk",
+        "founded": 1889,
+        "clubColors": "Red / White",
+        "venue": "Telia Parken",
+        "runningCompetitions": [
+            {
+                "id": 2182,
+                "name": "UEFA Nations League",
+                "code": "UNL",
+                "type": "CUP",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": "2019-10",
+            "until": null
+        }
+    }
+}

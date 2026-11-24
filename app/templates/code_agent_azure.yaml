@@ -1,0 +1,53 @@
+
+requiredVersions:
+    extensions:
+        azure.ai.agents: '{{azure_ai_agents_version}}'
+name: {{agent_name}}
+services:
+    {{agent_name}}:
+        project: src/{{agent_name}}
+        host: azure.ai.agent
+        language: docker
+        uses:
+            - ai-project
+        docker:
+            platform: linux/amd64
+        image: {{agent_name}}-image
+        container:
+            resources:
+                cpu: "{{container_cpu}}"
+                memory: "{{container_memory}}"
+        description: Agent Framework agent hosted by Foundry
+        environmentVariables:
+            - name: AZURE_AI_MODEL_DEPLOYMENT_NAME
+              value: {{model_deployment_name}}
+            - name: AZURE_FOUNDRY_PROJECT_URL
+              value: ${AZURE_FOUNDRY_PROJECT_URL}
+            - name: AZURE_AI_SEARCH_URL
+              value: ${AZURE_AI_SEARCH_URL}
+            - name: AZURE_STORAGE_ACCOUNT_URL
+              value: ${AZURE_STORAGE_ACCOUNT_URL}
+            - name: AZURE_STORAGE_ACCOUNT_NAME
+              value: ${AZURE_STORAGE_ACCOUNT_NAME}
+            - name: AZURE_AI_SEARCH_URL
+              value: ${AZURE_AI_SEARCH_URL}
+            - name: AZURE_AI_SEARCH_VERSION
+              value: ${AZURE_AI_SEARCH_VERSION}
+            - name: AZURE_FOUNDRY_VECTOR_STORE_ID
+              value: ${AZURE_FOUNDRY_VECTOR_STORE_ID}
+        kind: hosted
+        metadata:
+            tags:
+                - Agent Framework
+                - Foundry-Hosted
+        name: {{agent_name}}
+        protocols:
+            - protocol: responses
+              version: 2.0.0
+    ai-project:
+        host: azure.ai.project
+        deployments: []
+        endpoint: ${AZURE_FOUNDRY_PROJECT_URL}
+infra:
+    provider: microsoft.foundry
+

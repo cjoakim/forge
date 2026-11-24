@@ -1,0 +1,43 @@
+{
+    "id": 244989,
+    "name": "Lewis Koumas",
+    "firstName": "Lewis",
+    "lastName": "Koumas",
+    "dateOfBirth": "2005-09-19",
+    "nationality": "Wales",
+    "section": "Offence",
+    "position": "Offence",
+    "shirtNumber": 9,
+    "lastUpdated": "2026-09-07T13:31:45Z",
+    "currentTeam": {
+        "area": {
+            "id": 2264,
+            "name": "Wales",
+            "code": "WAL",
+            "flag": "https://crests.football-data.org/833.svg"
+        },
+        "id": 833,
+        "name": "Wales",
+        "shortName": "Wales",
+        "tla": "WAL",
+        "crest": "https://crests.football-data.org/833.svg",
+        "address": "11/12 Neptune Court, Vanguard Way Cardiff CF24 5PJ",
+        "website": "http://www.faw.org.uk",
+        "founded": 1876,
+        "clubColors": "Red / White",
+        "venue": "Cardiff City Stadium",
+        "runningCompetitions": [
+            {
+                "id": 2182,
+                "name": "UEFA Nations League",
+                "code": "UNL",
+                "type": "CUP",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": "2024-06",
+            "until": null
+        }
+    }
+}

@@ -1,0 +1,18 @@
+id: {{agent_name}}:1
+name: {{agent_name}}
+version: "1"
+description: "TODO: Provide a description of this prompt agent."
+definition:
+  kind: prompt
+  model: {{model_deployment_name}}
+  instructions: |
+    TODO: This generated agent file is just a working example.  Modify it as needed.
+
+    
+  tools:
+    - type: web_search
+    - type: code_interpreter
+      container:
+        type: auto
+draft: false
+status: active

@@ -1,0 +1,12 @@
+agent-framework-core==1.25.0
+agent-framework-foundry-hosting==1.0.0b261106
+agent-framework-foundry==1.16.1
+agent-framework-openai==1.18.1
+agent-framework-orchestrations==1.4.2
+azure-core==1.41.0
+azure-cosmos==4.17.1
+azure-identity==1.26.0
+azure-search-documents==12.0.0
+azure-storage-blob==12.31.1
+openai-agents==0.24.0
+python-dotenv==1.2.4

@@ -1,0 +1,43 @@
+{
+    "id": 32938,
+    "name": "Sa\u0161a Luki\u0107",
+    "firstName": "Sa\u0161a",
+    "lastName": "Luki\u0107",
+    "dateOfBirth": "1996-08-13",
+    "nationality": "Serbia",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-15T09:25:43Z",
+    "currentTeam": {
+        "area": {
+            "id": 2206,
+            "name": "Serbia",
+            "code": "SER",
+            "flag": null
+        },
+        "id": 780,
+        "name": "Serbia",
+        "shortName": "Serbia",
+        "tla": "SRB",
+        "crest": "https://crests.football-data.org/780.svg",
+        "address": "Terazije 35 / CP 263 Beograd 11000",
+        "website": "http://www.fss.rs",
+        "founded": 1919,
+        "clubColors": "Red / Blue / White",
+        "venue": "Stadion Rajko Miti\u0107",
+        "runningCompetitions": [
+            {
+                "id": 2182,
+                "name": "UEFA Nations League",
+                "code": "UNL",
+                "type": "CUP",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": "2018-09",
+            "until": null
+        }
+    }
+}

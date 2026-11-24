@@ -1,0 +1,14 @@
+[
+  {
+    "capacity": 100,
+    "deployment_name": "text-embedding-ada-002",
+    "model_name": "text-embedding-ada-002",
+    "model_version": "2"
+  },
+  {
+    "capacity": 100,
+    "deployment_name": "gpt-4.1-mini",
+    "model_name": "gpt-4.1-mini",
+    "model_version": "2025-04-14"
+  }
+]

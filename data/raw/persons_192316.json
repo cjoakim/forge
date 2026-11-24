@@ -1,0 +1,43 @@
+{
+    "id": 192316,
+    "name": "Alex Toth",
+    "firstName": "Alex",
+    "lastName": "T\u00f3th",
+    "dateOfBirth": "2005-10-23",
+    "nationality": "Hungary",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": 21,
+    "lastUpdated": "2026-04-10T09:41:35Z",
+    "currentTeam": {
+        "area": {
+            "id": 2106,
+            "name": "Hungary",
+            "code": "HUN",
+            "flag": "https://crests.football-data.org/827.svg"
+        },
+        "id": 827,
+        "name": "Hungary",
+        "shortName": "Hungary",
+        "tla": "HUN",
+        "crest": "https://crests.football-data.org/827.svg",
+        "address": "K\u00e1nai \u00fat 2/d Budapest 1112",
+        "website": "http://www.mlsz.hu",
+        "founded": 1901,
+        "clubColors": "Red / White / Green",
+        "venue": "Pusk\u00e1s Ar\u00e9na",
+        "runningCompetitions": [
+            {
+                "id": 2182,
+                "name": "UEFA Nations League",
+                "code": "UNL",
+                "type": "CUP",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": "2025-03",
+            "until": null
+        }
+    }
+}

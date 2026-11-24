@@ -1,0 +1,43 @@
+{
+    "id": 65843,
+    "name": "Anton Stach",
+    "firstName": "Anton",
+    "lastName": "Stach",
+    "dateOfBirth": "1998-11-15",
+    "nationality": "Germany",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-15T09:25:44Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 759,
+        "name": "Germany",
+        "shortName": "Germany",
+        "tla": "GER",
+        "crest": "https://crests.football-data.org/759.svg",
+        "address": "Otto-Fleck-Schneise 6 / Postfach 710265 Frankfurt am Main 60492",
+        "website": "http://www.dfb.de",
+        "founded": 1900,
+        "clubColors": "White / Black",
+        "venue": null,
+        "runningCompetitions": [
+            {
+                "id": 2182,
+                "name": "UEFA Nations League",
+                "code": "UNL",
+                "type": "CUP",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": "2022-03",
+            "until": null
+        }
+    }
+}

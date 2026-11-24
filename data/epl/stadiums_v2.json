@@ -1,0 +1,342 @@
+[
+    {
+        "id": "2629e90c-7181-4e2f-9a71-8554d7dd2e92",
+        "pk": "stadium",
+        "doctype": "stadium",
+        "team": "Arsenal",
+        "city": "London",
+        "stadium": "Emirates Stadium",
+        "latitude": 51.5549,
+        "longitude": -0.1084,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -0.1084,
+                51.5549
+            ]
+        }
+    },
+    {
+        "id": "3d419eb5-dac6-44fc-a9eb-d57bf50ae2bd",
+        "pk": "stadium",
+        "doctype": "stadium",
+        "team": "Aston Villa",
+        "city": "Birmingham",
+        "stadium": "Villa Park",
+        "latitude": 52.5092,
+        "longitude": -1.8848,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -1.8848,
+                52.5092
+            ]
+        }
+    },
+    {
+        "id": "20a80f59-1ce5-46b6-9baf-a435bf317ef2",
+        "pk": "stadium",
+        "doctype": "stadium",
+        "team": "Bournemouth",
+        "city": "Bournemouth",
+        "stadium": "Vitality Stadium",
+        "latitude": 50.7352,
+        "longitude": -1.8384,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -1.8384,
+                50.7352
+            ]
+        }
+    },
+    {
+        "id": "fbd6c99f-581b-4936-b4ed-2bf293aae502",
+        "pk": "stadium",
+        "doctype": "stadium",
+        "team": "Brentford",
+        "city": "London",
+        "stadium": "Griffin Park",
+        "latitude": 51.4907,
+        "longitude": -0.2886,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -0.2886,
+                51.4907
+            ]
+        }
+    },
+    {
+        "id": "a61fd6bf-664d-4440-90de-f0653493933b",
+        "pk": "stadium",
+        "doctype": "stadium",
+        "team": "Brighton Hove",
+        "city": "Brighton",
+        "stadium": "The American Express Community Stadium",
+        "latitude": 50.8619,
+        "longitude": -0.0837,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -0.0837,
+                50.8619
+            ]
+        }
+    },
+    {
+        "id": "034eb364-24fc-4238-9fd8-962e5d1f0e5a",
+        "pk": "stadium",
+        "doctype": "stadium",
+        "team": "Chelsea",
+        "city": "London",
+        "stadium": "Stamford Bridge",
+        "latitude": 51.4817,
+        "longitude": -0.191,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -0.191,
+                51.4817
+            ]
+        }
+    },
+    {
+        "id": "e395a831-331e-4bde-bc57-6ffb44f6e332",
+        "pk": "stadium",
+        "doctype": "stadium",
+        "team": "Coventry City",
+        "city": "Coventry",
+        "stadium": "Coventry Building Society Arena",
+        "latitude": 52.4482,
+        "longitude": -1.4956,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -1.4956,
+                52.4482
+            ]
+        }
+    },
+    {
+        "id": "d2d337f8-fb9a-4490-ab97-ba057f094298",
+        "pk": "stadium",
+        "doctype": "stadium",
+        "team": "Crystal Palace",
+        "city": "London",
+        "stadium": "Selhurst Park",
+        "latitude": 51.3983,
+        "longitude": -0.0855,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -0.0855,
+                51.3983
+            ]
+        }
+    },
+    {
+        "id": "474a4002-825d-46c9-a62e-743aeabe1baf",
+        "pk": "stadium",
+        "doctype": "stadium",
+        "team": "Everton",
+        "city": "Liverpool",
+        "stadium": "Hill Dickinson Stadium",
+        "latitude": 53.4443,
+        "longitude": -2.9958,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -2.9958,
+                53.4443
+            ]
+        }
+    },
+    {
+        "id": "8eff70fa-0e66-4bf6-a6ea-4e103911fcb1",
+        "pk": "stadium",
+        "doctype": "stadium",
+        "team": "Fulham",
+        "city": "London",
+        "stadium": "Craven Cottage",
+        "latitude": 51.4749,
+        "longitude": -0.2217,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -0.2217,
+                51.4749
+            ]
+        }
+    },
+    {
+        "id": "df6fe6b2-6b5b-4890-85b6-17580aaf2eba",
+        "pk": "stadium",
+        "doctype": "stadium",
+        "team": "Hull City",
+        "city": "Hull",
+        "stadium": "Kingston Communications Stadium",
+        "latitude": 53.7461,
+        "longitude": -0.3663,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -0.3663,
+                53.7461
+            ]
+        }
+    },
+    {
+        "id": "1cc92e65-6b5c-4e29-8773-50763191bf25",
+        "pk": "stadium",
+        "doctype": "stadium",
+        "team": "Ipswich Town",
+        "city": "Ipswich",
+        "stadium": "Portman Road Stadium",
+        "latitude": 52.0552,
+        "longitude": 1.1451,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                1.1451,
+                52.0552
+            ]
+        }
+    },
+    {
+        "id": "ae7c5dc3-ed33-499c-89b9-0019d614a02f",
+        "pk": "stadium",
+        "doctype": "stadium",
+        "team": "Leeds United",
+        "city": "Leeds",
+        "stadium": "Elland Road",
+        "latitude": 53.7778,
+        "longitude": -1.5722,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -1.5722,
+                53.7778
+            ]
+        }
+    },
+    {
+        "id": "6f7dd8eb-66a4-456a-9561-c811962c8f67",
+        "pk": "stadium",
+        "doctype": "stadium",
+        "team": "Liverpool",
+        "city": "Liverpool",
+        "stadium": "Anfield",
+        "latitude": 53.4308,
+        "longitude": -2.9608,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -2.9608,
+                53.4308
+            ]
+        }
+    },
+    {
+        "id": "07e373da-1e75-4cf6-990b-4a5c545c7ff5",
+        "pk": "stadium",
+        "doctype": "stadium",
+        "team": "Man City",
+        "city": "Manchester",
+        "stadium": "Etihad Stadium",
+        "latitude": 53.4831,
+        "longitude": -2.2004,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -2.2004,
+                53.4831
+            ]
+        }
+    },
+    {
+        "id": "bcf7a4a3-b441-4d2c-a036-ad8fc775fcb0",
+        "pk": "stadium",
+        "doctype": "stadium",
+        "team": "Man United",
+        "city": "Manchester",
+        "stadium": "Old Trafford",
+        "latitude": 53.4631,
+        "longitude": -2.2913,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -2.2913,
+                53.4631
+            ]
+        }
+    },
+    {
+        "id": "ef8ef996-c7a4-49f5-a896-36c261958120",
+        "pk": "stadium",
+        "doctype": "stadium",
+        "team": "Newcastle",
+        "city": "Newcastle upon Tyne",
+        "stadium": "St James Park",
+        "latitude": 54.9756,
+        "longitude": -1.6217,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -1.6217,
+                54.9756
+            ]
+        }
+    },
+    {
+        "id": "a6935b59-3427-4d46-bfe4-57e31b514786",
+        "pk": "stadium",
+        "doctype": "stadium",
+        "team": "Nottingham",
+        "city": "Nottingham",
+        "stadium": "The City Ground",
+        "latitude": 52.94,
+        "longitude": -1.1328,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -1.1328,
+                52.94
+            ]
+        }
+    },
+    {
+        "id": "5d73a15b-6798-44e9-81ae-8228ffbb101f",
+        "pk": "stadium",
+        "doctype": "stadium",
+        "team": "Sunderland",
+        "city": "Sunderland",
+        "stadium": "Stadium of Light",
+        "latitude": 54.9144,
+        "longitude": -1.3883,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -1.3883,
+                54.9144
+            ]
+        }
+    },
+    {
+        "id": "79aecb30-593f-4d55-bd7d-acdef5cd2168",
+        "pk": "stadium",
+        "doctype": "stadium",
+        "team": "Tottenham",
+        "city": "London",
+        "stadium": "Tottenham Hotspur Stadium",
+        "latitude": 51.6043,
+        "longitude": -0.0664,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -0.0664,
+                51.6043
+            ]
+        }
+    }
+]

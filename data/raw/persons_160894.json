@@ -1,0 +1,50 @@
+{
+    "id": 160894,
+    "name": "Matthias Jaissle",
+    "firstName": "Matthias",
+    "lastName": "Jaissle",
+    "dateOfBirth": "1988-04-05",
+    "nationality": "Germany",
+    "section": "Coach",
+    "position": "Coach",
+    "shirtNumber": null,
+    "lastUpdated": "2026-09-02T16:36:31Z",
+    "currentTeam": {
+        "area": {
+            "id": 2072,
+            "name": "England",
+            "code": "ENG",
+            "flag": "https://crests.football-data.org/770.svg"
+        },
+        "id": 67,
+        "name": "Newcastle United FC",
+        "shortName": "Newcastle",
+        "tla": "NEW",
+        "crest": "https://crests.football-data.org/67.png",
+        "address": "Sports Direct Arena Newcastle upon Tyne NE1 4ST",
+        "website": "http://www.nufc.co.uk",
+        "founded": 1881,
+        "clubColors": "Black / White",
+        "venue": "St. James' Park",
+        "runningCompetitions": [
+            {
+                "id": 2021,
+                "name": "Premier League",
+                "code": "PL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PL.png"
+            },
+            {
+                "id": 2139,
+                "name": "Football League Cup",
+                "code": "FLC",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/carabao.png"
+            }
+        ],
+        "contract": {
+            "start": null,
+            "until": null
+        }
+    }
+}

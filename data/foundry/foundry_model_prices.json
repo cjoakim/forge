@@ -1,0 +1,3017 @@
+[
+  {
+    "currency": "USD",
+    "format": "Mistral AI",
+    "matched": true,
+    "meters": [
+      "Codestral Inp glbl Tokens",
+      "Codestral Outp glbl Tokens"
+    ],
+    "name": "Codestral-2501",
+    "prices": {
+      "GlobalStandard": {
+        "input": 0.3,
+        "output": 0.9
+      }
+    },
+    "product": "Azure Mistral Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2"
+  },
+  {
+    "currency": "USD",
+    "format": "Cohere",
+    "matched": false,
+    "meters": [],
+    "name": "Cohere-Embed-V5-Fast",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Cohere",
+    "matched": false,
+    "meters": [],
+    "name": "Cohere-Embed-V5-Pro",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Cohere",
+    "matched": true,
+    "meters": [
+      "Command A Plus Inp Glbl 1M Tokens",
+      "Command A Plus Outp Glbl 1M Tokens"
+    ],
+    "name": "Cohere-command-a-plus-05-2026",
+    "prices": {
+      "GlobalStandard": {
+        "input": 0.8,
+        "output": 3.2
+      }
+    },
+    "product": "Cohere Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Cohere",
+    "matched": false,
+    "meters": [],
+    "name": "Cohere-embed-v3-english",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Cohere",
+    "matched": false,
+    "meters": [],
+    "name": "Cohere-embed-v3-multilingual",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Cohere",
+    "matched": false,
+    "meters": [],
+    "name": "Cohere-parse-v5",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Cohere",
+    "matched": false,
+    "meters": [],
+    "name": "Cohere-rerank-v4.0-fast",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Cohere",
+    "matched": false,
+    "meters": [],
+    "name": "Cohere-rerank-v4.0-pro",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Cohere",
+    "matched": false,
+    "meters": [],
+    "name": "Cohere-rerank-v5-fast",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Cohere",
+    "matched": false,
+    "meters": [],
+    "name": "Cohere-rerank-v5-pro",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "DeepSeek",
+    "matched": true,
+    "meters": [
+      "R1 Inp glbl Tokens",
+      "R1 Outp glbl Tokens"
+    ],
+    "name": "DeepSeek-R1",
+    "prices": {
+      "GlobalStandard": {
+        "input": 1.35,
+        "output": 5.4
+      }
+    },
+    "product": "Azure Deepseek Models",
+    "ptu_per_hour": {
+      "GlobalProvisionedManaged": 1.0
+    },
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "DeepSeek",
+    "matched": true,
+    "meters": [
+      "V3.2 Inp glbl Tokens",
+      "V3.2 Outp glbl Tokens"
+    ],
+    "name": "DeepSeek-V3.2",
+    "prices": {
+      "GlobalStandard": {
+        "input": 0.58,
+        "output": 1.68
+      }
+    },
+    "product": "Azure Deepseek Models",
+    "ptu_per_hour": {
+      "DataZoneProvisionedManaged": 1.1,
+      "GlobalProvisionedManaged": 1.0
+    },
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "DeepSeek",
+    "matched": true,
+    "meters": [
+      "V3.2 SP Inp glbl Tokens",
+      "V3.2 SP Outp glbl Tokens"
+    ],
+    "name": "DeepSeek-V3.2-Speciale",
+    "prices": {
+      "GlobalStandard": {
+        "input": 0.58,
+        "output": 1.68
+      }
+    },
+    "product": "Azure Deepseek Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "DeepSeek",
+    "matched": true,
+    "meters": [
+      "V4 Flash Inp DZ Tokens",
+      "V4 Flash Inp glbl Tokens",
+      "V4 Flash Outp DZ Tokens",
+      "V4 Flash Outp glbl Tokens",
+      "V4 Flash cached DZ Tokens",
+      "V4 Flash cached glbl Tokens"
+    ],
+    "name": "DeepSeek-V4-Flash",
+    "prices": {
+      "DataZoneStandard": {
+        "cached_input": 0.031,
+        "input": 0.21,
+        "output": 0.56
+      },
+      "GlobalStandard": {
+        "cached_input": 0.028,
+        "input": 0.19,
+        "output": 0.51
+      }
+    },
+    "product": "Azure Deepseek Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2026-04-23"
+  },
+  {
+    "currency": "USD",
+    "format": "DeepSeek",
+    "matched": true,
+    "meters": [
+      "V4 Flash 0731 Inp glbl Tokens",
+      "V4 Flash 0731 Outp glbl Tokens",
+      "V4 Flash 0731 cached glbl Tokens"
+    ],
+    "name": "DeepSeek-V4-Flash-0731",
+    "prices": {
+      "GlobalStandard": {
+        "cached_input": 0.014,
+        "input": 0.44,
+        "output": 1.32
+      }
+    },
+    "product": "Azure Deepseek Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2026-07-31"
+  },
+  {
+    "currency": "USD",
+    "format": "DeepSeek",
+    "matched": true,
+    "meters": [
+      "V4 Pro Inp DZ Tokens",
+      "V4 Pro Inp glbl Tokens",
+      "V4 Pro Outp DZ Tokens",
+      "V4 Pro Outp glbl Tokens",
+      "V4 Pro cached DZ Tokens",
+      "V4 Pro cached glbl Tokens"
+    ],
+    "name": "DeepSeek-V4-Pro",
+    "prices": {
+      "DataZoneStandard": {
+        "cached_input": 0.16,
+        "input": 1.91,
+        "output": 3.83
+      },
+      "GlobalStandard": {
+        "cached_input": 0.145,
+        "input": 1.74,
+        "output": 3.48
+      }
+    },
+    "product": "Azure Deepseek Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2026-04-23"
+  },
+  {
+    "currency": "USD",
+    "format": "DeepSeek",
+    "matched": true,
+    "meters": [
+      "FW DS-V4.1-Flash Gl Cd Inp Tokens",
+      "FW DS-V4.1-Flash Gl Inp Tokens",
+      "FW DS-V4.1-Flash Gl Opt Tokens"
+    ],
+    "name": "DeepSeek-V4.1-Flash",
+    "prices": {
+      "GlobalStandard": {
+        "cached_input": 0.008,
+        "input": 0.375,
+        "output": 1.5
+      }
+    },
+    "product": "Azure Fireworks Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2026-09-10"
+  },
+  {
+    "currency": "USD",
+    "format": "Black Forest Labs",
+    "matched": false,
+    "meters": [],
+    "name": "FLUX-1.1-pro",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Black Forest Labs",
+    "matched": false,
+    "meters": [],
+    "name": "FLUX.1-Kontext-pro",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Black Forest Labs",
+    "matched": false,
+    "meters": [],
+    "name": "FLUX.2-flex",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Black Forest Labs",
+    "matched": false,
+    "meters": [],
+    "name": "FLUX.2-pro",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "MoonshotAI",
+    "matched": true,
+    "meters": [
+      "K2.5 Thinking Inp glbl Tokens",
+      "K2.5 Thinking Outp glbl Tokens",
+      "K2.5 cached glbl Tokens"
+    ],
+    "name": "Kimi-K2.5",
+    "prices": {
+      "GlobalStandard": {
+        "cached_input": 0.1,
+        "input": 0.6,
+        "output": 3.0
+      }
+    },
+    "product": "Azure Kimi",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "MoonshotAI",
+    "matched": true,
+    "meters": [
+      "K2.6 Thinking Inp glbl Tokens",
+      "K2.6 Thinking Outp glbl Tokens",
+      "K2.6 cached glbl Tokens"
+    ],
+    "name": "Kimi-K2.6",
+    "prices": {
+      "GlobalStandard": {
+        "cached_input": 0.16,
+        "input": 0.95,
+        "output": 4.0
+      }
+    },
+    "product": "Azure Kimi",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2026-04-20"
+  },
+  {
+    "currency": "USD",
+    "format": "MoonshotAI",
+    "matched": true,
+    "meters": [
+      "K2.7 Code Inp glbl Tokens",
+      "K2.7 Code Outp glbl Tokens",
+      "K2.7 Code cached glbl Tokens"
+    ],
+    "name": "Kimi-K2.7-Code",
+    "prices": {
+      "GlobalStandard": {
+        "cached_input": 0.19,
+        "input": 0.95,
+        "output": 4.0
+      }
+    },
+    "product": "Azure Kimi",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2026-06-12"
+  },
+  {
+    "currency": "USD",
+    "format": "Meta",
+    "matched": true,
+    "meters": [
+      "Llama 3.3 70B Inp glbl Tokens",
+      "Llama 3.3 70B Outp glbl Tokens"
+    ],
+    "name": "Llama-3.3-70B-Instruct",
+    "prices": {
+      "GlobalStandard": {
+        "input": 0.71,
+        "output": 0.71
+      }
+    },
+    "product": "Azure Llama Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Meta",
+    "matched": true,
+    "meters": [
+      "Llama 3.3 70B Inp glbl Tokens",
+      "Llama 3.3 70B Outp glbl Tokens"
+    ],
+    "name": "Llama-3.3-70B-Instruct",
+    "prices": {
+      "GlobalStandard": {
+        "input": 0.71,
+        "output": 0.71
+      }
+    },
+    "product": "Azure Llama Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2"
+  },
+  {
+    "currency": "USD",
+    "format": "Meta",
+    "matched": true,
+    "meters": [
+      "Llama 3.3 70B Inp glbl Tokens",
+      "Llama 3.3 70B Outp glbl Tokens"
+    ],
+    "name": "Llama-3.3-70B-Instruct",
+    "prices": {
+      "GlobalStandard": {
+        "input": 0.71,
+        "output": 0.71
+      }
+    },
+    "product": "Azure Llama Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "3"
+  },
+  {
+    "currency": "USD",
+    "format": "Meta",
+    "matched": true,
+    "meters": [
+      "Llama 3.3 70B Inp glbl Tokens",
+      "Llama 3.3 70B Outp glbl Tokens"
+    ],
+    "name": "Llama-3.3-70B-Instruct",
+    "prices": {
+      "GlobalStandard": {
+        "input": 0.71,
+        "output": 0.71
+      }
+    },
+    "product": "Azure Llama Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "4"
+  },
+  {
+    "currency": "USD",
+    "format": "Meta",
+    "matched": true,
+    "meters": [
+      "Llama 3.3 70B Inp glbl Tokens",
+      "Llama 3.3 70B Outp glbl Tokens"
+    ],
+    "name": "Llama-3.3-70B-Instruct",
+    "prices": {
+      "GlobalStandard": {
+        "input": 0.71,
+        "output": 0.71
+      }
+    },
+    "product": "Azure Llama Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "5"
+  },
+  {
+    "currency": "USD",
+    "format": "Meta",
+    "matched": true,
+    "meters": [
+      "Llama 3.3 70B Inp Dzone Tokens",
+      "Llama 3.3 70B Inp glbl Tokens",
+      "Llama 3.3 70B Outp Dzone Tokens",
+      "Llama 3.3 70B Outp glbl Tokens"
+    ],
+    "name": "Llama-3.3-70B-Instruct",
+    "prices": {
+      "DataZoneStandard": {
+        "input": 0.781,
+        "output": 0.781
+      },
+      "GlobalStandard": {
+        "input": 0.71,
+        "output": 0.71
+      }
+    },
+    "product": "Azure Llama Models",
+    "ptu_per_hour": {
+      "DataZoneProvisionedManaged": 1.1,
+      "GlobalProvisionedManaged": 1.0
+    },
+    "unit": "1M tokens",
+    "version": "9"
+  },
+  {
+    "currency": "USD",
+    "format": "Meta",
+    "matched": true,
+    "meters": [
+      "Llama 4 Maverick 17B Inp glbl Tokens",
+      "Llama 4 Maverick 17B Outp glbl Tokens"
+    ],
+    "name": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+    "prices": {
+      "GlobalStandard": {
+        "input": 0.25,
+        "output": 1.0
+      }
+    },
+    "product": "Azure Llama Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Meta",
+    "matched": false,
+    "meters": [],
+    "name": "Llama-4-Scout-17B-16E-Instruct",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Microsoft",
+    "matched": false,
+    "meters": [],
+    "name": "MAI-Code-1.1-Flash",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2026-09-15"
+  },
+  {
+    "currency": "USD",
+    "format": "Microsoft",
+    "matched": true,
+    "meters": [
+      "MAI-Thinking-1 Cd Inp glbl 1M Tokens",
+      "MAI-Thinking-1 Inp glbl 1M Tokens",
+      "MAI-Thinking-1 Opt glbl 1M Tokens"
+    ],
+    "name": "MAI-Thinking-1",
+    "prices": {
+      "GlobalStandard": {
+        "cached_input": 0.2,
+        "input": 2.0,
+        "output": 8.0
+      }
+    },
+    "product": "MAI Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2026-06-01"
+  },
+  {
+    "currency": "USD",
+    "format": "Microsoft",
+    "matched": false,
+    "meters": [],
+    "name": "Microsoft-Decision-1",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Mistral AI",
+    "matched": false,
+    "meters": [],
+    "name": "Ministral-3B",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Mistral AI",
+    "matched": true,
+    "meters": [
+      "Large 3 Inp Dzone Tokens",
+      "Large 3 Inp glbl Tokens",
+      "Large 3 Outp Dzone Tokens",
+      "Large 3 Outp glbl Tokens"
+    ],
+    "name": "Mistral-Large-3",
+    "prices": {
+      "DataZoneStandard": {
+        "input": 0.55,
+        "output": 1.65
+      },
+      "GlobalStandard": {
+        "input": 0.5,
+        "output": 1.5
+      }
+    },
+    "product": "Azure Mistral Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Mistral AI",
+    "matched": false,
+    "meters": [],
+    "name": "Mistral-large",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Microsoft",
+    "matched": true,
+    "meters": [
+      "Phi-4-Input Tokens",
+      "Phi-4-Output Tokens"
+    ],
+    "name": "Phi-4",
+    "prices": {
+      "GlobalStandard": {
+        "input": 0.125,
+        "output": 0.5
+      }
+    },
+    "product": "Azure Phi Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2"
+  },
+  {
+    "currency": "USD",
+    "format": "Microsoft",
+    "matched": true,
+    "meters": [
+      "Phi-4-Input Tokens",
+      "Phi-4-Output Tokens"
+    ],
+    "name": "Phi-4",
+    "prices": {
+      "GlobalStandard": {
+        "input": 0.125,
+        "output": 0.5
+      }
+    },
+    "product": "Azure Phi Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "3"
+  },
+  {
+    "currency": "USD",
+    "format": "Microsoft",
+    "matched": true,
+    "meters": [
+      "Phi-4-Input Tokens",
+      "Phi-4-Output Tokens"
+    ],
+    "name": "Phi-4",
+    "prices": {
+      "GlobalStandard": {
+        "input": 0.125,
+        "output": 0.5
+      }
+    },
+    "product": "Azure Phi Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "4"
+  },
+  {
+    "currency": "USD",
+    "format": "Microsoft",
+    "matched": true,
+    "meters": [
+      "Phi-4-Input Tokens",
+      "Phi-4-Output Tokens"
+    ],
+    "name": "Phi-4",
+    "prices": {
+      "GlobalStandard": {
+        "input": 0.125,
+        "output": 0.5
+      }
+    },
+    "product": "Azure Phi Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "5"
+  },
+  {
+    "currency": "USD",
+    "format": "Microsoft",
+    "matched": true,
+    "meters": [
+      "Phi-4-Input Tokens",
+      "Phi-4-Output Tokens"
+    ],
+    "name": "Phi-4",
+    "prices": {
+      "GlobalStandard": {
+        "input": 0.125,
+        "output": 0.5
+      }
+    },
+    "product": "Azure Phi Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "6"
+  },
+  {
+    "currency": "USD",
+    "format": "Microsoft",
+    "matched": true,
+    "meters": [
+      "Phi-4-Input Tokens",
+      "Phi-4-Output Tokens"
+    ],
+    "name": "Phi-4",
+    "prices": {
+      "GlobalStandard": {
+        "input": 0.125,
+        "output": 0.5
+      }
+    },
+    "product": "Azure Phi Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "7"
+  },
+  {
+    "currency": "USD",
+    "format": "Microsoft",
+    "matched": true,
+    "meters": [
+      "Phi-4-Mini-Input Tokens",
+      "Phi-4-Mini-Output Tokens"
+    ],
+    "name": "Phi-4-mini-instruct",
+    "prices": {
+      "GlobalStandard": {
+        "input": 0.075,
+        "output": 0.3
+      }
+    },
+    "product": "Azure Phi Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Microsoft",
+    "matched": true,
+    "meters": [
+      "Phi-4-mini-reasoning-Input Tokens",
+      "Phi-4-mini-reasoning-Output Tokens"
+    ],
+    "name": "Phi-4-mini-reasoning",
+    "prices": {
+      "GlobalStandard": {
+        "input": 0.075,
+        "output": 0.3
+      }
+    },
+    "product": "Azure Phi Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Microsoft",
+    "matched": true,
+    "meters": [
+      "Phi-4-Mini MM-Input Tokens",
+      "Phi-4-Mini MM-Output Tokens"
+    ],
+    "name": "Phi-4-multimodal-instruct",
+    "prices": {
+      "GlobalStandard": {
+        "input": 0.08,
+        "output": 0.32
+      }
+    },
+    "product": "Azure Phi Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Microsoft",
+    "matched": true,
+    "meters": [
+      "Phi-4-reasoning-Input Tokens",
+      "Phi-4-reasoning-Output Tokens"
+    ],
+    "name": "Phi-4-reasoning",
+    "prices": {
+      "GlobalStandard": {
+        "input": 0.125,
+        "output": 0.5
+      }
+    },
+    "product": "Azure Phi Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Anthropic",
+    "matched": false,
+    "meters": [],
+    "name": "claude-fable-5-1",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Anthropic",
+    "matched": false,
+    "meters": [],
+    "name": "claude-haiku-4-5",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2"
+  },
+  {
+    "currency": "USD",
+    "format": "Anthropic",
+    "matched": false,
+    "meters": [],
+    "name": "claude-haiku-4-5",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "20251001"
+  },
+  {
+    "currency": "USD",
+    "format": "Anthropic",
+    "matched": false,
+    "meters": [],
+    "name": "claude-haiku-5-5",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Anthropic",
+    "matched": false,
+    "meters": [],
+    "name": "claude-haiku-5-5",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2"
+  },
+  {
+    "currency": "USD",
+    "format": "Anthropic",
+    "matched": false,
+    "meters": [],
+    "name": "claude-opus-4-5",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "20251101"
+  },
+  {
+    "currency": "USD",
+    "format": "Anthropic",
+    "matched": false,
+    "meters": [],
+    "name": "claude-opus-4-6",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Anthropic",
+    "matched": false,
+    "meters": [],
+    "name": "claude-opus-4-7",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Anthropic",
+    "matched": false,
+    "meters": [],
+    "name": "claude-opus-4-8",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Anthropic",
+    "matched": false,
+    "meters": [],
+    "name": "claude-opus-4-8",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2"
+  },
+  {
+    "currency": "USD",
+    "format": "Anthropic",
+    "matched": false,
+    "meters": [],
+    "name": "claude-opus-5",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Anthropic",
+    "matched": false,
+    "meters": [],
+    "name": "claude-opus-5",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2"
+  },
+  {
+    "currency": "USD",
+    "format": "Anthropic",
+    "matched": false,
+    "meters": [],
+    "name": "claude-opus-5-5",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Anthropic",
+    "matched": false,
+    "meters": [],
+    "name": "claude-opus-5-5",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2"
+  },
+  {
+    "currency": "USD",
+    "format": "Anthropic",
+    "matched": false,
+    "meters": [],
+    "name": "claude-opus-5-5-fast",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2"
+  },
+  {
+    "currency": "USD",
+    "format": "Anthropic",
+    "matched": false,
+    "meters": [],
+    "name": "claude-sonnet-4-5",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "20250929"
+  },
+  {
+    "currency": "USD",
+    "format": "Anthropic",
+    "matched": false,
+    "meters": [],
+    "name": "claude-sonnet-4-6",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Anthropic",
+    "matched": false,
+    "meters": [],
+    "name": "claude-sonnet-5",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Anthropic",
+    "matched": false,
+    "meters": [],
+    "name": "claude-sonnet-5",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2"
+  },
+  {
+    "currency": "USD",
+    "format": "Anthropic",
+    "matched": false,
+    "meters": [],
+    "name": "claude-sonnet-5-5",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Anthropic",
+    "matched": false,
+    "meters": [],
+    "name": "claude-sonnet-5-5",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2"
+  },
+  {
+    "currency": "USD",
+    "format": "Cohere",
+    "matched": true,
+    "meters": [
+      "Command A Inp Glbl Tokens",
+      "Command A Outp Glbl Tokens"
+    ],
+    "name": "cohere-command-a",
+    "prices": {
+      "GlobalStandard": {
+        "input": 2.5,
+        "output": 10.0
+      }
+    },
+    "product": "Cohere Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Cohere",
+    "matched": false,
+    "meters": [],
+    "name": "embed-v-4-0",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "gpt 4.1 Batch Inp Data Zone Tokens",
+      "gpt 4.1 Batch Inp glbl Tokens",
+      "gpt 4.1 Batch Outp Data Zone Tokens",
+      "gpt 4.1 Batch Outp glbl Tokens",
+      "gpt 4.1 Inp Data Zone Tokens",
+      "gpt 4.1 Inp glbl Tokens",
+      "gpt 4.1 Inp regnl Tokens",
+      "gpt 4.1 Outp Data Zone Tokens",
+      "gpt 4.1 Outp glbl Tokens",
+      "gpt 4.1 Outp regnl Tokens",
+      "gpt 4.1 cached Inp Data Zone Tokens",
+      "gpt 4.1 cached Inp glbl Tokens",
+      "gpt 4.1 cached Inp regnl Tokens"
+    ],
+    "name": "gpt-4.1",
+    "prices": {
+      "DataZoneBatch": {
+        "input": 1.1,
+        "output": 4.4
+      },
+      "DataZoneStandard": {
+        "cached_input": 0.55,
+        "input": 2.2,
+        "output": 8.8
+      },
+      "GlobalBatch": {
+        "input": 1.0,
+        "output": 4.0
+      },
+      "GlobalStandard": {
+        "cached_input": 0.5,
+        "input": 2.0,
+        "output": 8.0
+      },
+      "Standard": {
+        "cached_input": 0.55,
+        "input": 2.2,
+        "output": 8.8
+      }
+    },
+    "product": "Azure OpenAI",
+    "ptu_per_hour": {
+      "DataZoneProvisionedManaged": 1.1,
+      "GlobalProvisionedManaged": 1.0,
+      "ProvisionedManaged": 2.0
+    },
+    "unit": "1M tokens",
+    "version": "2025-04-14"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "gpt 4.1 mini Batch Inp DZone Tokens",
+      "gpt 4.1 mini Batch Inp glbl Tokens",
+      "gpt 4.1 mini Batch Outp DZone Tokens",
+      "gpt 4.1 mini Batch Outp glbl Tokens",
+      "gpt 4.1 mini Inp Data Zone Tokens",
+      "gpt 4.1 mini Inp glbl Tokens",
+      "gpt 4.1 mini Inp regnl Tokens",
+      "gpt 4.1 mini Outp Data Zone Tokens",
+      "gpt 4.1 mini Outp glbl Tokens",
+      "gpt 4.1 mini Outp regnl Tokens",
+      "gpt 4.1 mini cached Inp DZone Tokens",
+      "gpt 4.1 mini cached Inp glbl Tokens",
+      "gpt 4.1 mini cached Inp regnl Tokens"
+    ],
+    "name": "gpt-4.1-mini",
+    "prices": {
+      "DataZoneBatch": {
+        "input": 0.22,
+        "output": 0.88
+      },
+      "DataZoneStandard": {
+        "cached_input": 0.11,
+        "input": 0.44,
+        "output": 1.76
+      },
+      "GlobalBatch": {
+        "input": 0.2,
+        "output": 0.8
+      },
+      "GlobalStandard": {
+        "cached_input": 0.1,
+        "input": 0.4,
+        "output": 1.6
+      },
+      "Standard": {
+        "cached_input": 0.11,
+        "input": 0.44,
+        "output": 1.76
+      }
+    },
+    "product": "Azure OpenAI",
+    "ptu_per_hour": {
+      "DataZoneProvisionedManaged": 1.1,
+      "GlobalProvisionedManaged": 1.0,
+      "ProvisionedManaged": 2.0
+    },
+    "unit": "1M tokens",
+    "version": "2025-04-14"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "gpt 4.1 nano Batch Inp DZone Tokens",
+      "gpt 4.1 nano Batch Inp glbl Tokens",
+      "gpt 4.1 nano Batch Outp DZone Tokens",
+      "gpt 4.1 nano Batch Outp glbl Tokens",
+      "gpt 4.1 nano Inp Data Zone Tokens",
+      "gpt 4.1 nano Inp glbl Tokens",
+      "gpt 4.1 nano Outp Data Zone Tokens",
+      "gpt 4.1 nano Outp glbl Tokens",
+      "gpt 4.1 nano cached Inp DZone Tokens",
+      "gpt 4.1 nano cached Inp glbl Tokens"
+    ],
+    "name": "gpt-4.1-nano",
+    "prices": {
+      "DataZoneBatch": {
+        "input": 0.055,
+        "output": 0.22
+      },
+      "DataZoneStandard": {
+        "cached_input": 0.028,
+        "input": 0.11,
+        "output": 0.44
+      },
+      "GlobalBatch": {
+        "input": 0.05,
+        "output": 0.2
+      },
+      "GlobalStandard": {
+        "cached_input": 0.025,
+        "input": 0.1,
+        "output": 0.4
+      }
+    },
+    "product": "Azure OpenAI",
+    "ptu_per_hour": {
+      "DataZoneProvisionedManaged": 1.1,
+      "GlobalProvisionedManaged": 1.0,
+      "ProvisionedManaged": 2.0
+    },
+    "unit": "1M tokens",
+    "version": "2025-04-14"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "gpt 4o 0513 Batch Inp glbl Tokens",
+      "gpt 4o 0513 Batch Outp glbl Tokens",
+      "gpt 4o 0513 Input Data Zone Tokens",
+      "gpt 4o 0513 Input global Tokens",
+      "gpt 4o 0513 Input regional Tokens",
+      "gpt 4o 0513 Output Data Zone Tokens",
+      "gpt 4o 0513 Output global Tokens",
+      "gpt 4o 0513 Output regional Tokens"
+    ],
+    "name": "gpt-4o",
+    "prices": {
+      "DataZoneStandard": {
+        "input": 5.5,
+        "output": 16.5
+      },
+      "GlobalBatch": {
+        "input": 2.5,
+        "output": 7.5
+      },
+      "GlobalStandard": {
+        "input": 5.0,
+        "output": 15.0
+      },
+      "Standard": {
+        "input": 5.5,
+        "output": 16.5
+      }
+    },
+    "product": "Azure OpenAI",
+    "ptu_per_hour": {
+      "DataZoneProvisionedManaged": 1.1,
+      "GlobalProvisionedManaged": 1.0,
+      "ProvisionedManaged": 2.0
+    },
+    "unit": "1M tokens",
+    "version": "2024-05-13"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "gpt 4o 0806 Batch Inp Data Zone Tokens",
+      "gpt 4o 0806 Batch Outp Data Zone Tokens",
+      "gpt 4o 0806 Inp Data Zone Tokens",
+      "gpt 4o 0806 Outp Data Zone Tokens",
+      "gpt 4o 0806 cached Inp Data Zone Tokens",
+      "gpt 4o 0806 cached Inp glbl Tokens",
+      "gpt 4o 0806 cached Inp regnl Tokens",
+      "gpt-4o-0806-Batch-Inp-glbl Tokens",
+      "gpt-4o-0806-Batch-Outp-glbl Tokens",
+      "gpt-4o-0806-Inp-glbl Tokens",
+      "gpt-4o-0806-Inp-regnl Tokens",
+      "gpt-4o-0806-Outp-glbl Tokens",
+      "gpt-4o-0806-Outp-regnl Tokens"
+    ],
+    "name": "gpt-4o",
+    "prices": {
+      "DataZoneBatch": {
+        "input": 1.375,
+        "output": 5.5
+      },
+      "DataZoneStandard": {
+        "cached_input": 1.375,
+        "input": 2.75,
+        "output": 11.0
+      },
+      "GlobalBatch": {
+        "input": 1.25,
+        "output": 5.0
+      },
+      "GlobalStandard": {
+        "cached_input": 1.25,
+        "input": 2.5,
+        "output": 10.0
+      },
+      "Standard": {
+        "cached_input": 1.375,
+        "input": 2.75,
+        "output": 11.0
+      }
+    },
+    "product": "Azure OpenAI",
+    "ptu_per_hour": {
+      "DataZoneProvisionedManaged": 1.1,
+      "GlobalProvisionedManaged": 1.0,
+      "ProvisionedManaged": 2.0
+    },
+    "unit": "1M tokens",
+    "version": "2024-08-06"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "gpt 4o 1120 Batch Inp DZ Tokens",
+      "gpt 4o 1120 Batch Inp glbl Tokens",
+      "gpt 4o 1120 Batch Outp DZ Tokens",
+      "gpt 4o 1120 Batch Outp glbl Tokens",
+      "gpt 4o 1120 Inp Data Zone Tokens",
+      "gpt 4o 1120 Inp glbl Tokens",
+      "gpt 4o 1120 Inp regnl Tokens",
+      "gpt 4o 1120 Outp Data Zone Tokens",
+      "gpt 4o 1120 Outp glbl Tokens",
+      "gpt 4o 1120 Outp regnl Tokens",
+      "gpt 4o 1120 cached Inp Data Zone Tokens",
+      "gpt 4o 1120 cached Inp glbl Tokens",
+      "gpt 4o 1120 cached Inp regnl Tokens"
+    ],
+    "name": "gpt-4o",
+    "prices": {
+      "DataZoneBatch": {
+        "input": 1.375,
+        "output": 5.5
+      },
+      "DataZoneStandard": {
+        "cached_input": 1.375,
+        "input": 2.75,
+        "output": 11.0
+      },
+      "GlobalBatch": {
+        "input": 1.25,
+        "output": 5.0
+      },
+      "GlobalStandard": {
+        "cached_input": 1.25,
+        "input": 2.5,
+        "output": 10.0
+      },
+      "Standard": {
+        "cached_input": 1.375,
+        "input": 2.75,
+        "output": 11.0
+      }
+    },
+    "product": "Azure OpenAI",
+    "ptu_per_hour": {
+      "DataZoneProvisionedManaged": 1.1,
+      "GlobalProvisionedManaged": 1.0
+    },
+    "unit": "1M tokens",
+    "version": "2024-11-20"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "gpt 4o mini 0718 Batch Inp Data Zone Tokens",
+      "gpt 4o mini 0718 Inp Data Zone Tokens",
+      "gpt 4o mini 0718 Outp Data Zone Tokens",
+      "gpt 4o mini 0718 cached Inp Data Zone Tokens",
+      "gpt 4o mini 0718 cached Inp glbl Tokens",
+      "gpt 4o mini 0718 cached Inp regnl Tokens",
+      "gpt-4o-mini-0718-Batch-Inp-glbl Tokens",
+      "gpt-4o-mini-0718-Batch-Outp-glbl Tokens",
+      "gpt-4o-mini-0718-Inp-glbl Tokens",
+      "gpt-4o-mini-0718-Inp-regnl Tokens",
+      "gpt-4o-mini-0718-Outp-glbl Tokens",
+      "gpt-4o-mini-0718-Outp-regnl Tokens"
+    ],
+    "name": "gpt-4o-mini",
+    "prices": {
+      "DataZoneBatch": {
+        "input": 0.083
+      },
+      "DataZoneStandard": {
+        "cached_input": 0.083,
+        "input": 0.165,
+        "output": 0.66
+      },
+      "GlobalBatch": {
+        "input": 0.075,
+        "output": 0.3
+      },
+      "GlobalStandard": {
+        "cached_input": 0.075,
+        "input": 0.15,
+        "output": 0.6
+      },
+      "Standard": {
+        "cached_input": 0.083,
+        "input": 0.165,
+        "output": 0.66
+      }
+    },
+    "product": "Azure OpenAI",
+    "ptu_per_hour": {
+      "DataZoneProvisionedManaged": 1.1,
+      "GlobalProvisionedManaged": 1.0,
+      "ProvisionedManaged": 2.0
+    },
+    "unit": "1M tokens",
+    "version": "2024-07-18"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "GPT 5 Batch Inpt DZone 1M Tokens",
+      "GPT 5 Batch Inpt Glbl 1M Tokens",
+      "GPT 5 Batch Inpt cchd Dzone 1M Tokens",
+      "GPT 5 Batch Inpt cchd Glbl 1M Tokens",
+      "GPT 5 Batch outpt DZone 1M Tokens",
+      "GPT 5 Batch outpt Glbl 1M Tokens",
+      "GPT 5 Inpt DZone 1M Tokens",
+      "GPT 5 Inpt Glbl 1M Tokens",
+      "GPT 5 cchd Inpt DZone 1M Tokens",
+      "GPT 5 cchd Inpt Glbl 1M Tokens",
+      "GPT 5 outpt DZone 1M Tokens",
+      "GPT 5 outpt Glbl 1M Tokens"
+    ],
+    "name": "gpt-5",
+    "prices": {
+      "DataZoneBatch": {
+        "cached_input": 0.06875,
+        "input": 0.6875,
+        "output": 5.5
+      },
+      "DataZoneStandard": {
+        "cached_input": 0.1375,
+        "input": 1.375,
+        "output": 11.0
+      },
+      "GlobalBatch": {
+        "cached_input": 0.0625,
+        "input": 0.625,
+        "output": 5.0
+      },
+      "GlobalStandard": {
+        "cached_input": 0.125,
+        "input": 1.25,
+        "output": 10.0
+      }
+    },
+    "product": "Azure OpenAI GPT5",
+    "ptu_per_hour": {
+      "DataZoneProvisionedManaged": 1.1,
+      "GlobalProvisionedManaged": 1.0,
+      "ProvisionedManaged": 2.0
+    },
+    "unit": "1M tokens",
+    "version": "2025-08-07"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "gpt-5-codex-ccchd-inp-glbl Tokens",
+      "gpt-5-codex-inp-glbl Tokens",
+      "gpt-5-codex-out-glbl Tokens"
+    ],
+    "name": "gpt-5-codex",
+    "prices": {
+      "GlobalStandard": {
+        "cached_input": 0.125,
+        "input": 1.25,
+        "output": 10.0
+      }
+    },
+    "product": "Azure OpenAI GPT5",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2025-09-15"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "GPT 5 Mini Inpt DZone 1M Tokens",
+      "GPT 5 Mini Inpt Glbl 1M Tokens",
+      "GPT 5 Mini cchd Inpt DZone 1M Tokens",
+      "GPT 5 Mini cchd Inpt Glbl 1M Tokens",
+      "GPT 5 Mini outpt DZone 1M Tokens",
+      "GPT 5 Mini outpt Glbl 1M Tokens"
+    ],
+    "name": "gpt-5-mini",
+    "prices": {
+      "DataZoneStandard": {
+        "cached_input": 0.0275,
+        "input": 0.275,
+        "output": 2.2
+      },
+      "GlobalStandard": {
+        "cached_input": 0.025,
+        "input": 0.25,
+        "output": 2.0
+      }
+    },
+    "product": "Azure OpenAI GPT5",
+    "ptu_per_hour": {
+      "DataZoneProvisionedManaged": 1.1,
+      "GlobalProvisionedManaged": 1.0
+    },
+    "unit": "1M tokens",
+    "version": "2025-08-07"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "GPT 5 Nano Inpt DZone 1M Tokens",
+      "GPT 5 Nano Inpt Glbl 1M Tokens",
+      "GPT 5 Nano cchd Inpt DZone 1M Tokens",
+      "GPT 5 Nano cchd Inpt Glbl 1M Tokens",
+      "GPT 5 Nano outpt DZone 1M Tokens",
+      "GPT 5 Nano outpt Glbl 1M Tokens"
+    ],
+    "name": "gpt-5-nano",
+    "prices": {
+      "DataZoneStandard": {
+        "cached_input": 0.0055,
+        "input": 0.055,
+        "output": 0.44
+      },
+      "GlobalStandard": {
+        "cached_input": 0.005,
+        "input": 0.05,
+        "output": 0.4
+      }
+    },
+    "product": "Azure OpenAI GPT5",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2025-08-07"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "gpt 5 pro inp glbl Tokens",
+      "gpt 5 pro out glbl Tokens"
+    ],
+    "name": "gpt-5-pro",
+    "prices": {
+      "GlobalStandard": {
+        "input": 15.0,
+        "output": 120.0
+      }
+    },
+    "product": "Azure OpenAI GPT5",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2025-10-06"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "GPT 5.1 Batch cd inp Dz 1M Tokens",
+      "GPT 5.1 Batch cd inp Gl 1M Tokens",
+      "GPT 5.1 Batch inp Dz 1M Tokens",
+      "GPT 5.1 Batch inp Gl 1M Tokens",
+      "GPT 5.1 Batch opt Dz 1M Tokens",
+      "GPT 5.1 Batch opt Gl 1M Tokens",
+      "GPT 5.1 cd inp Dz 1M Tokens",
+      "GPT 5.1 cd inp Gl 1M Tokens",
+      "GPT 5.1 inp Dz 1M Tokens",
+      "GPT 5.1 inp Gl 1M Tokens",
+      "GPT 5.1 opt Dz 1M Tokens",
+      "GPT 5.1 opt Gl 1M Tokens"
+    ],
+    "name": "gpt-5.1",
+    "prices": {
+      "DataZoneBatch": {
+        "cached_input": 0.06875,
+        "input": 0.6875,
+        "output": 5.5
+      },
+      "DataZoneStandard": {
+        "cached_input": 0.1375,
+        "input": 1.375,
+        "output": 11.0
+      },
+      "GlobalBatch": {
+        "cached_input": 0.0625,
+        "input": 0.625,
+        "output": 5.0
+      },
+      "GlobalStandard": {
+        "cached_input": 0.125,
+        "input": 1.25,
+        "output": 10.0
+      }
+    },
+    "product": "Azure OpenAI GPT5",
+    "ptu_per_hour": {
+      "DataZoneProvisionedManaged": 1.1,
+      "GlobalProvisionedManaged": 1.0
+    },
+    "unit": "1M tokens",
+    "version": "2025-11-13"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "5.1 codex cd inp Gl 1M Tokens",
+      "5.1 codex inp Gl 1M Tokens",
+      "5.1 codex opt Gl 1M Tokens"
+    ],
+    "name": "gpt-5.1-codex",
+    "prices": {
+      "GlobalStandard": {
+        "cached_input": 0.125,
+        "input": 1.25,
+        "output": 10.0
+      }
+    },
+    "product": "Azure OpenAI GPT5",
+    "ptu_per_hour": {
+      "DataZoneProvisionedManaged": 1.1,
+      "GlobalProvisionedManaged": 1.0
+    },
+    "unit": "1M tokens",
+    "version": "2025-11-13"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "5.1 codex max cd inp Gl 1M Tokens",
+      "5.1 codex max inp Gl 1M Tokens",
+      "5.1 codex max opt Gl 1M Tokens"
+    ],
+    "name": "gpt-5.1-codex-max",
+    "prices": {
+      "GlobalStandard": {
+        "cached_input": 0.125,
+        "input": 1.25,
+        "output": 10.0
+      }
+    },
+    "product": "Azure OpenAI GPT5",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2025-12-04"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "5.1 codex mini cd inp Gl 1M Tokens",
+      "5.1 codex mini inp Gl 1M Tokens",
+      "5.1 codex mini opt Gl 1M Tokens"
+    ],
+    "name": "gpt-5.1-codex-mini",
+    "prices": {
+      "GlobalStandard": {
+        "cached_input": 0.025,
+        "input": 0.25,
+        "output": 2.0
+      }
+    },
+    "product": "Azure OpenAI GPT5",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2025-11-13"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "GPT 5.2 cd inp Dz 1M Tokens",
+      "GPT 5.2 cd inp Gl 1M Tokens",
+      "GPT 5.2 inp Dz 1M Tokens",
+      "GPT 5.2 inp Gl 1M Tokens",
+      "GPT 5.2 opt Dz 1M Tokens",
+      "GPT 5.2 opt Gl 1M Tokens"
+    ],
+    "name": "gpt-5.2",
+    "prices": {
+      "DataZoneStandard": {
+        "cached_input": 0.1925,
+        "input": 1.925,
+        "output": 15.4
+      },
+      "GlobalStandard": {
+        "cached_input": 0.175,
+        "input": 1.75,
+        "output": 14.0
+      }
+    },
+    "product": "Azure OpenAI GPT5",
+    "ptu_per_hour": {
+      "DataZoneProvisionedManaged": 1.1,
+      "GlobalProvisionedManaged": 1.0
+    },
+    "unit": "1M tokens",
+    "version": "2025-12-11"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "5.2 codex cd inp Gl 1M Tokens",
+      "5.2 codex inp Gl 1M Tokens",
+      "5.2 codex opt Gl 1M Tokens"
+    ],
+    "name": "gpt-5.2-codex",
+    "prices": {
+      "GlobalStandard": {
+        "cached_input": 0.175,
+        "input": 1.75,
+        "output": 14.0
+      }
+    },
+    "product": "Azure OpenAI GPT5",
+    "ptu_per_hour": {
+      "GlobalProvisionedManaged": 1.0
+    },
+    "unit": "1M tokens",
+    "version": "2026-01-14"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "5.3 codex cd inp Dz 1M Tokens",
+      "5.3 codex cd inp Gl 1M Tokens",
+      "5.3 codex inp Dz 1M Tokens",
+      "5.3 codex inp Gl 1M Tokens",
+      "5.3 codex opt Dz 1M Tokens",
+      "5.3 codex opt Gl 1M Tokens"
+    ],
+    "name": "gpt-5.3-codex",
+    "prices": {
+      "DataZoneStandard": {
+        "cached_input": 0.1925,
+        "input": 1.925,
+        "output": 15.4
+      },
+      "GlobalStandard": {
+        "cached_input": 0.175,
+        "input": 1.75,
+        "output": 14.0
+      }
+    },
+    "product": "Azure OpenAI GPT5",
+    "ptu_per_hour": {
+      "GlobalProvisionedManaged": 1.0
+    },
+    "unit": "1M tokens",
+    "version": "2026-02-24"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "5.4 Batch cd inp Dz 1M Tokens",
+      "5.4 Batch cd inp Gl 1M Tokens",
+      "5.4 Batch inp Dz 1M Tokens",
+      "5.4 Batch inp Gl 1M Tokens",
+      "5.4 Batch opt Dz 1M Tokens",
+      "5.4 Batch opt Gl 1M Tokens",
+      "5.4 cd inp Dz 1M Tokens",
+      "5.4 cd inp Gl 1M Tokens",
+      "5.4 inp Dz 1M Tokens",
+      "5.4 inp Gl 1M Tokens",
+      "5.4 opt Dz 1M Tokens",
+      "5.4 opt Gl 1M Tokens"
+    ],
+    "name": "gpt-5.4",
+    "prices": {
+      "DataZoneBatch": {
+        "cached_input": 0.143,
+        "input": 1.375,
+        "output": 8.25
+      },
+      "DataZoneStandard": {
+        "cached_input": 0.275,
+        "input": 2.75,
+        "output": 16.5
+      },
+      "GlobalBatch": {
+        "cached_input": 0.13,
+        "input": 1.25,
+        "output": 7.5
+      },
+      "GlobalStandard": {
+        "cached_input": 0.25,
+        "input": 2.5,
+        "output": 15.0
+      }
+    },
+    "product": "Azure OpenAI GPT5",
+    "ptu_per_hour": {
+      "DataZoneProvisionedManaged": 1.1,
+      "GlobalProvisionedManaged": 1.0
+    },
+    "unit": "1M tokens",
+    "version": "2026-03-05"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "5.4 mini Batch Inp Dz 1M Tokens",
+      "5.4 mini Batch Inp Gl 1M Tokens",
+      "5.4 mini Batch Opt Dz 1M Tokens",
+      "5.4 mini Batch Opt Gl 1M Tokens",
+      "5.4 mini Batch cd Inp Dz 1M Tokens",
+      "5.4 mini Batch cd Inp Gl 1M Tokens",
+      "5.4 mini Inp Dz 1M Tokens",
+      "5.4 mini Inp Gl 1M Tokens",
+      "5.4 mini Opt Dz 1M Tokens",
+      "5.4 mini Opt Gl 1M Tokens",
+      "5.4 mini cd Inp Dz 1M Tokens",
+      "5.4 mini cd Inp Gl 1M Tokens"
+    ],
+    "name": "gpt-5.4-mini",
+    "prices": {
+      "DataZoneBatch": {
+        "cached_input": 0.04125,
+        "input": 0.4125,
+        "output": 2.475
+      },
+      "DataZoneStandard": {
+        "cached_input": 0.0825,
+        "input": 0.825,
+        "output": 4.95
+      },
+      "GlobalBatch": {
+        "cached_input": 0.0375,
+        "input": 0.375,
+        "output": 2.25
+      },
+      "GlobalStandard": {
+        "cached_input": 0.075,
+        "input": 0.75,
+        "output": 4.5
+      }
+    },
+    "product": "Azure OpenAI GPT5",
+    "ptu_per_hour": {
+      "DataZoneProvisionedManaged": 1.1,
+      "GlobalProvisionedManaged": 1.0
+    },
+    "unit": "1M tokens",
+    "version": "2026-03-17"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "5.4 nano Inp Dz 1M Tokens",
+      "5.4 nano Inp Gl 1M Tokens",
+      "5.4 nano Opt Dz 1M Tokens",
+      "5.4 nano Opt Gl 1M Tokens",
+      "5.4 nano cd Inp Dz 1M Tokens",
+      "5.4 nano cd Inp Gl 1M Tokens"
+    ],
+    "name": "gpt-5.4-nano",
+    "prices": {
+      "DataZoneStandard": {
+        "cached_input": 0.022,
+        "input": 0.22,
+        "output": 1.375
+      },
+      "GlobalStandard": {
+        "cached_input": 0.02,
+        "input": 0.2,
+        "output": 1.25
+      }
+    },
+    "product": "Azure OpenAI GPT5",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2026-03-17"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "5.4 pro inp Gl 1M Tokens",
+      "5.4 pro opt Gl 1M Tokens"
+    ],
+    "name": "gpt-5.4-pro",
+    "prices": {
+      "GlobalStandard": {
+        "input": 30.0,
+        "output": 180.0
+      }
+    },
+    "product": "Azure OpenAI GPT5",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2026-03-05"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "5.5 ShortCo cd inp Dz 1M Tokens",
+      "5.5 ShortCo cd inp Gl 1M Tokens",
+      "5.5 ShortCo inp Dz 1M Tokens",
+      "5.5 ShortCo inp Gl 1M Tokens",
+      "5.5 ShortCo opt Dz 1M Tokens",
+      "5.5 ShortCo opt Gl 1M Tokens"
+    ],
+    "name": "gpt-5.5",
+    "prices": {
+      "DataZoneStandard": {
+        "cached_input": 0.55,
+        "input": 5.5,
+        "output": 33.0
+      },
+      "GlobalStandard": {
+        "cached_input": 0.5,
+        "input": 5.0,
+        "output": 30.0
+      }
+    },
+    "product": "Azure OpenAI GPT5",
+    "ptu_per_hour": {
+      "DataZoneProvisionedManaged": 1.1,
+      "GlobalProvisionedManaged": 1.0
+    },
+    "unit": "1M tokens",
+    "version": "2026-04-24"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "5.6 luna ShortCo Cd Inp Std DZ 1M Tokens",
+      "5.6 luna ShortCo Cd Inp Std Gl 1M Tokens",
+      "5.6 luna ShortCo Inp Std DZ 1M Tokens",
+      "5.6 luna ShortCo Inp Std Gl 1M Tokens",
+      "5.6 luna ShortCo Opt Std DZ 1M Tokens",
+      "5.6 luna ShortCo Opt Std Gl 1M Tokens"
+    ],
+    "name": "gpt-5.6-luna",
+    "prices": {
+      "DataZoneStandard": {
+        "cached_input": 0.022,
+        "input": 0.22,
+        "output": 1.32
+      },
+      "GlobalStandard": {
+        "cached_input": 0.02,
+        "input": 0.2,
+        "output": 1.2
+      }
+    },
+    "product": "Azure OpenAI GPT5",
+    "ptu_per_hour": {
+      "DataZoneProvisionedManaged": 1.1,
+      "GlobalProvisionedManaged": 1.0
+    },
+    "unit": "1M tokens",
+    "version": "2026-07-09"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "5.6 sol ShortCo Cd Inp Std DZ 1M Tokens",
+      "5.6 sol ShortCo Cd Inp Std Gl 1M Tokens",
+      "5.6 sol ShortCo Inp Std DZ 1M Tokens",
+      "5.6 sol ShortCo Inp Std Gl 1M Tokens",
+      "5.6 sol ShortCo Opt Std DZ 1M Tokens",
+      "5.6 sol ShortCo Opt Std Gl 1M Tokens"
+    ],
+    "name": "gpt-5.6-sol",
+    "prices": {
+      "DataZoneStandard": {
+        "cached_input": 0.44,
+        "input": 4.4,
+        "output": 22.0
+      },
+      "GlobalStandard": {
+        "cached_input": 0.4,
+        "input": 4.0,
+        "output": 20.0
+      }
+    },
+    "product": "Azure OpenAI GPT5",
+    "ptu_per_hour": {
+      "DataZoneProvisionedManaged": 1.1,
+      "GlobalProvisionedManaged": 1.0
+    },
+    "unit": "1M tokens",
+    "version": "2026-07-09"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "5.6 terra ShortCo Cd Inp Std DZ 1M Tokens",
+      "5.6 terra ShortCo Cd Inp Std Gl 1M Tokens",
+      "5.6 terra ShortCo Inp Std DZ 1M Tokens",
+      "5.6 terra ShortCo Inp Std Gl 1M Tokens",
+      "5.6 terra ShortCo Opt Std DZ 1M Tokens",
+      "5.6 terra ShortCo Opt Std Gl 1M Tokens"
+    ],
+    "name": "gpt-5.6-terra",
+    "prices": {
+      "DataZoneStandard": {
+        "cached_input": 0.22,
+        "input": 2.2,
+        "output": 13.2
+      },
+      "GlobalStandard": {
+        "cached_input": 0.2,
+        "input": 2.0,
+        "output": 12.0
+      }
+    },
+    "product": "Azure OpenAI GPT5",
+    "ptu_per_hour": {
+      "DataZoneProvisionedManaged": 1.1,
+      "GlobalProvisionedManaged": 1.0
+    },
+    "unit": "1M tokens",
+    "version": "2026-07-09"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "6-astra ShortCo Cd Inp Std DZ 1M Tokens",
+      "6-astra ShortCo Cd Inp Std Gl 1M Tokens",
+      "6-astra ShortCo Inp Std DZ 1M Tokens",
+      "6-astra ShortCo Inp Std Gl 1M Tokens",
+      "6-astra ShortCo Opt Std DZ 1M Tokens",
+      "6-astra ShortCo Opt Std Gl 1M Tokens"
+    ],
+    "name": "gpt-6-astra",
+    "prices": {
+      "DataZoneStandard": {
+        "cached_input": 1.1,
+        "input": 11.0,
+        "output": 55.0
+      },
+      "GlobalStandard": {
+        "cached_input": 1.0,
+        "input": 10.0,
+        "output": 50.0
+      }
+    },
+    "product": "Azure OpenAI GPT6",
+    "ptu_per_hour": {
+      "DataZoneProvisionedManaged": 1.1,
+      "GlobalProvisionedManaged": 1.0
+    },
+    "unit": "1M tokens",
+    "version": "2026-09-03"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "6-luna ShortCo Cd Inp Std DZ 1M Tokens",
+      "6-luna ShortCo Cd Inp Std Gl 1M Tokens",
+      "6-luna ShortCo Inp Std DZ 1M Tokens",
+      "6-luna ShortCo Inp Std Gl 1M Tokens",
+      "6-luna ShortCo Opt Std DZ 1M Tokens",
+      "6-luna ShortCo Opt Std Gl 1M Tokens"
+    ],
+    "name": "gpt-6-luna",
+    "prices": {
+      "DataZoneStandard": {
+        "cached_input": 0.011,
+        "input": 0.11,
+        "output": 0.55
+      },
+      "GlobalStandard": {
+        "cached_input": 0.01,
+        "input": 0.1,
+        "output": 0.5
+      }
+    },
+    "product": "Azure OpenAI GPT6",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2026-09-22"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "6-sol ShortCo Cd Inp Std DZ 1M Tokens",
+      "6-sol ShortCo Cd Inp Std Gl 1M Tokens",
+      "6-sol ShortCo Inp Std DZ 1M Tokens",
+      "6-sol ShortCo Inp Std Gl 1M Tokens",
+      "6-sol ShortCo Opt Std DZ 1M Tokens",
+      "6-sol ShortCo Opt Std Gl 1M Tokens"
+    ],
+    "name": "gpt-6-sol",
+    "prices": {
+      "DataZoneStandard": {
+        "cached_input": 0.22,
+        "input": 2.2,
+        "output": 11.0
+      },
+      "GlobalStandard": {
+        "cached_input": 0.2,
+        "input": 2.0,
+        "output": 10.0
+      }
+    },
+    "product": "Azure OpenAI GPT6",
+    "ptu_per_hour": {
+      "DataZoneProvisionedManaged": 1.1,
+      "GlobalProvisionedManaged": 1.0
+    },
+    "unit": "1M tokens",
+    "version": "2026-09-22"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "6.1-sol ShortCo Cd Inp Std DZ 1M Tokens",
+      "6.1-sol ShortCo Cd Inp Std Gl 1M Tokens",
+      "6.1-sol ShortCo Inp Std DZ 1M Tokens",
+      "6.1-sol ShortCo Inp Std Gl 1M Tokens",
+      "6.1-sol ShortCo Opt Std DZ 1M Tokens",
+      "6.1-sol ShortCo Opt Std Gl 1M Tokens"
+    ],
+    "name": "gpt-6.1-sol",
+    "prices": {
+      "DataZoneStandard": {
+        "cached_input": 0.11,
+        "input": 2.2,
+        "output": 11.0
+      },
+      "GlobalStandard": {
+        "cached_input": 0.1,
+        "input": 2.0,
+        "output": 10.0
+      }
+    },
+    "product": "Azure OpenAI GPT6",
+    "ptu_per_hour": {
+      "DataZoneProvisionedManaged": 1.1,
+      "GlobalProvisionedManaged": 1.0
+    },
+    "unit": "1M tokens",
+    "version": "2026-09-29"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "chat-latest 05052026 cd inp Gl 1M Tokens",
+      "chat-latest 05052026 inp Gl 1M Tokens",
+      "chat-latest 05052026 opt Gl 1M Tokens"
+    ],
+    "name": "gpt-chat-latest",
+    "prices": {
+      "GlobalStandard": {
+        "cached_input": 0.5,
+        "input": 5.0,
+        "output": 30.0
+      }
+    },
+    "product": "Azure OpenAI GPT5",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2026-05-05"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "chat-latest 05282026 cd inp Gl 1M Tokens",
+      "chat-latest 05282026 inp Gl 1M Tokens",
+      "chat-latest 05282026 opt Gl 1M Tokens"
+    ],
+    "name": "gpt-chat-latest",
+    "prices": {
+      "GlobalStandard": {
+        "cached_input": 0.5,
+        "input": 5.0,
+        "output": 30.0
+      }
+    },
+    "product": "Azure OpenAI GPT5",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2026-05-28"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": false,
+    "meters": [],
+    "name": "gpt-chat-latest",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2026-06-24"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "chat-latest 08062026 cd inp Gl 1M Tokens",
+      "chat-latest 08062026 inp Gl 1M Tokens",
+      "chat-latest 08062026 opt Gl 1M Tokens"
+    ],
+    "name": "gpt-chat-latest",
+    "prices": {
+      "GlobalStandard": {
+        "cached_input": 0.5,
+        "input": 5.0,
+        "output": 30.0
+      }
+    },
+    "product": "Azure OpenAI GPT5",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2026-08-06"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": false,
+    "meters": [],
+    "name": "gpt-chat-latest",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2026-10-07"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI-OSS",
+    "matched": true,
+    "meters": [
+      "gpt-oss-120B Inp glbl Tokens",
+      "gpt-oss-120B Outp glbl Tokens"
+    ],
+    "name": "gpt-oss-120b",
+    "prices": {
+      "GlobalStandard": {
+        "input": 0.15,
+        "output": 0.6
+      }
+    },
+    "product": "Azure OpenAI OSS Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI-OSS",
+    "matched": false,
+    "meters": [],
+    "name": "gpt-oss-20b",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "11"
+  },
+  {
+    "currency": "USD",
+    "format": "xAI",
+    "matched": true,
+    "meters": [
+      "Grok 4.1 Inp DZone Tokens",
+      "Grok 4.1 Inp Glbl Tokens",
+      "Grok 4.1 Outp DZone Tokens",
+      "Grok 4.1 Outp Glbl Tokens"
+    ],
+    "name": "grok-4-1-fast-non-reasoning",
+    "prices": {
+      "DataZoneStandard": {
+        "input": 0.22,
+        "output": 0.55
+      },
+      "GlobalStandard": {
+        "input": 0.2,
+        "output": 0.5
+      }
+    },
+    "product": "Azure Grok Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "xAI",
+    "matched": true,
+    "meters": [
+      "Grok 4.1 Inp DZone Tokens",
+      "Grok 4.1 Inp Glbl Tokens",
+      "Grok 4.1 Outp DZone Tokens",
+      "Grok 4.1 Outp Glbl Tokens"
+    ],
+    "name": "grok-4-1-fast-reasoning",
+    "prices": {
+      "DataZoneStandard": {
+        "input": 0.22,
+        "output": 0.55
+      },
+      "GlobalStandard": {
+        "input": 0.2,
+        "output": 0.5
+      }
+    },
+    "product": "Azure Grok Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "xAI",
+    "matched": true,
+    "meters": [
+      "Grok 4.2 Inp Dzone Tokens",
+      "Grok 4.2 Inp glbl Tokens",
+      "Grok 4.2 Outp Dzone Tokens",
+      "Grok 4.2 Outp glbl Tokens"
+    ],
+    "name": "grok-4-20-non-reasoning",
+    "prices": {
+      "DataZoneStandard": {
+        "input": 1.375,
+        "output": 2.75
+      },
+      "GlobalStandard": {
+        "input": 1.25,
+        "output": 2.5
+      }
+    },
+    "product": "Azure Grok Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "xAI",
+    "matched": true,
+    "meters": [
+      "Grok 4.2 Inp Dzone Tokens",
+      "Grok 4.2 Inp glbl Tokens",
+      "Grok 4.2 Outp Dzone Tokens",
+      "Grok 4.2 Outp glbl Tokens"
+    ],
+    "name": "grok-4-20-reasoning",
+    "prices": {
+      "DataZoneStandard": {
+        "input": 1.375,
+        "output": 2.75
+      },
+      "GlobalStandard": {
+        "input": 1.25,
+        "output": 2.5
+      }
+    },
+    "product": "Azure Grok Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "xAI",
+    "matched": true,
+    "meters": [
+      "4.3 Cached Inp DZ Tokens",
+      "4.3 Cached Inp Glbl Tokens",
+      "4.3 Inp DZ Tokens",
+      "4.3 Inp Glbl Tokens",
+      "4.3 Outp DZ Tokens",
+      "4.3 Outp Glbl Tokens"
+    ],
+    "name": "grok-4.3",
+    "prices": {
+      "DataZoneStandard": {
+        "cached_input": 0.22,
+        "input": 1.375,
+        "output": 2.75
+      },
+      "GlobalStandard": {
+        "cached_input": 0.2,
+        "input": 1.25,
+        "output": 2.5
+      }
+    },
+    "product": "Azure Grok Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "xAI",
+    "matched": true,
+    "meters": [
+      "4.6 Cached Glbl Tokens",
+      "4.6 Inp Glbl Tokens",
+      "4.6 Outp Glbl Tokens"
+    ],
+    "name": "grok-4.6",
+    "prices": {
+      "GlobalStandard": {
+        "cached_input": 0.5,
+        "input": 2.0,
+        "output": 6.0
+      }
+    },
+    "product": "Azure Grok Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "xAI",
+    "matched": true,
+    "meters": [
+      "4.7 Cached DZ 1M Tokens",
+      "4.7 Cached glbl 1M Tokens",
+      "4.7 Inp DZ 1M Tokens",
+      "4.7 Inp glbl 1M Tokens",
+      "4.7 Outp DZ 1M Tokens",
+      "4.7 Outp glbl 1M Tokens"
+    ],
+    "name": "grok-4.7",
+    "prices": {
+      "DataZoneStandard": {
+        "cached_input": 0.55,
+        "input": 2.2,
+        "output": 6.6
+      },
+      "GlobalStandard": {
+        "cached_input": 0.5,
+        "input": 2.0,
+        "output": 6.0
+      }
+    },
+    "product": "Azure Grok Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Mistral AI",
+    "matched": false,
+    "meters": [],
+    "name": "mistral-document-ai-2512",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Mistral AI",
+    "matched": false,
+    "meters": [],
+    "name": "mistral-medium-2505",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Mistral AI",
+    "matched": true,
+    "meters": [
+      "MM3.5 Inp DZ Tokens",
+      "MM3.5 Inp glbl Tokens",
+      "MM3.5 Outp DZ Tokens",
+      "MM3.5 Outp glbl Tokens"
+    ],
+    "name": "mistral-medium-3-5",
+    "prices": {
+      "DataZoneStandard": {
+        "input": 1.65,
+        "output": 8.25
+      },
+      "GlobalStandard": {
+        "input": 1.5,
+        "output": 7.5
+      }
+    },
+    "product": "Azure Mistral Models",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Mistral AI",
+    "matched": false,
+    "meters": [],
+    "name": "mistral-ocr-4-0",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "Mistral AI",
+    "matched": false,
+    "meters": [],
+    "name": "mistral-small-2503",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": false,
+    "meters": [],
+    "name": "model-router",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2025-05-19"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": false,
+    "meters": [],
+    "name": "model-router",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2025-08-07"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": false,
+    "meters": [],
+    "name": "model-router",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2025-11-18"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "o1 1217 Inp Data Zone Tokens",
+      "o1 1217 Inp glbl Tokens",
+      "o1 1217 Inp regnl Tokens",
+      "o1 1217 Outp Data Zone Tokens",
+      "o1 1217 Outp glbl Tokens",
+      "o1 1217 Outp regnl Tokens",
+      "o1 1217 cached Inp Data Zone Tokens",
+      "o1 1217 cached Inp glbl Tokens",
+      "o1 1217 cached Inp regnl Tokens"
+    ],
+    "name": "o1",
+    "prices": {
+      "DataZoneStandard": {
+        "cached_input": 8.25,
+        "input": 16.5,
+        "output": 66.0
+      },
+      "GlobalStandard": {
+        "cached_input": 7.5,
+        "input": 15.0,
+        "output": 60.0
+      },
+      "Standard": {
+        "cached_input": 8.25,
+        "input": 16.5,
+        "output": 66.0
+      }
+    },
+    "product": "Azure OpenAI",
+    "ptu_per_hour": {
+      "DataZoneProvisionedManaged": 1.1,
+      "GlobalProvisionedManaged": 1.0
+    },
+    "unit": "1M tokens",
+    "version": "2024-12-17"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "o3 0416 Batch Inp Data Zone Tokens",
+      "o3 0416 Batch Inp glbl Tokens",
+      "o3 0416 Batch Outp Data Zone Tokens",
+      "o3 0416 Batch Outp glbl Tokens",
+      "o3 0416 Inp Data Zone Tokens",
+      "o3 0416 Inp glbl Tokens",
+      "o3 0416 Outp Data Zone Tokens",
+      "o3 0416 Outp glbl Tokens",
+      "o3 0416 cached Inp Data Zone Tokens",
+      "o3 0416 cached Inp glbl Tokens"
+    ],
+    "name": "o3",
+    "prices": {
+      "DataZoneBatch": {
+        "input": 1.1,
+        "output": 4.4
+      },
+      "DataZoneStandard": {
+        "cached_input": 0.55,
+        "input": 2.2,
+        "output": 8.8
+      },
+      "GlobalBatch": {
+        "input": 1.0,
+        "output": 4.0
+      },
+      "GlobalStandard": {
+        "cached_input": 0.5,
+        "input": 2.0,
+        "output": 8.0
+      }
+    },
+    "product": "Azure OpenAI",
+    "ptu_per_hour": {
+      "DataZoneProvisionedManaged": 1.1,
+      "GlobalProvisionedManaged": 1.0,
+      "ProvisionedManaged": 2.0
+    },
+    "unit": "1M tokens",
+    "version": "2025-04-16"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "o3 mini 0131 Batch Inp Data Zone Tokens",
+      "o3 mini 0131 Batch Inp glbl Tokens",
+      "o3 mini 0131 Batch Outp Data Zone Tokens",
+      "o3 mini 0131 Batch Outp glbl Tokens",
+      "o3 mini 0131 cached input Data Zone Tokens",
+      "o3 mini 0131 cached input glbl Tokens",
+      "o3 mini 0131 input Data Zone Tokens",
+      "o3 mini 0131 input glbl Tokens",
+      "o3 mini 0131 output Data Zone Tokens",
+      "o3 mini 0131 output glbl Tokens"
+    ],
+    "name": "o3-mini",
+    "prices": {
+      "DataZoneBatch": {
+        "input": 0.605,
+        "output": 2.42
+      },
+      "DataZoneStandard": {
+        "cached_input": 0.605,
+        "input": 1.21,
+        "output": 4.84
+      },
+      "GlobalBatch": {
+        "input": 0.55,
+        "output": 2.2
+      },
+      "GlobalStandard": {
+        "cached_input": 0.55,
+        "input": 1.1,
+        "output": 4.4
+      }
+    },
+    "product": "Azure OpenAI",
+    "ptu_per_hour": {
+      "DataZoneProvisionedManaged": 1.1,
+      "GlobalProvisionedManaged": 1.0,
+      "ProvisionedManaged": 2.0
+    },
+    "unit": "1M tokens",
+    "version": "2025-01-31"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "o4-mini 0416 Batch Inp Data Zone Tokens",
+      "o4-mini 0416 Batch Inp glbl Tokens",
+      "o4-mini 0416 Batch Outp Data Zone Tokens",
+      "o4-mini 0416 Batch Outp glbl Tokens",
+      "o4-mini 0416 Inp Data Zone Tokens",
+      "o4-mini 0416 Inp glbl Tokens",
+      "o4-mini 0416 Inp regnl Tokens",
+      "o4-mini 0416 Outp Data Zone Tokens",
+      "o4-mini 0416 Outp glbl Tokens",
+      "o4-mini 0416 Outp regnl Tokens",
+      "o4-mini 0416 cached Inp DataZone Tokens",
+      "o4-mini 0416 cached Inp glbl Tokens",
+      "o4-mini 0416 cached Inp regnl Tokens"
+    ],
+    "name": "o4-mini",
+    "prices": {
+      "DataZoneBatch": {
+        "input": 0.605,
+        "output": 2.42
+      },
+      "DataZoneStandard": {
+        "cached_input": 0.303,
+        "input": 1.21,
+        "output": 4.84
+      },
+      "GlobalBatch": {
+        "input": 0.55,
+        "output": 2.2
+      },
+      "GlobalStandard": {
+        "cached_input": 0.275,
+        "input": 1.1,
+        "output": 4.4
+      },
+      "Standard": {
+        "cached_input": 0.303,
+        "input": 1.21,
+        "output": 4.84
+      }
+    },
+    "product": "Azure OpenAI Reasoning",
+    "ptu_per_hour": {
+      "DataZoneProvisionedManaged": 1.1,
+      "GlobalProvisionedManaged": 1.0,
+      "ProvisionedManaged": 2.0
+    },
+    "unit": "1M tokens",
+    "version": "2025-04-16"
+  },
+  {
+    "currency": "USD",
+    "format": "Alibaba",
+    "matched": false,
+    "meters": [],
+    "name": "qwen3-32b",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "text embedding 3 large DZ Tokens",
+      "text-embedding-3-large-glbl Tokens"
+    ],
+    "name": "text-embedding-3-large",
+    "prices": {
+      "DataZoneStandard": {
+        "input": 0.143
+      },
+      "GlobalStandard": {
+        "input": 0.13
+      }
+    },
+    "product": "Azure OpenAI",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "text embedding 3 small DZ Tokens",
+      "text-embedding-3-small-glbl Tokens"
+    ],
+    "name": "text-embedding-3-small",
+    "prices": {
+      "DataZoneStandard": {
+        "input": 0.022
+      },
+      "GlobalStandard": {
+        "input": 0.02
+      }
+    },
+    "product": "Azure OpenAI Embedding",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "embedding-ada-regional Tokens"
+    ],
+    "name": "text-embedding-ada-002",
+    "prices": {
+      "Standard": {
+        "input": 0.11
+      }
+    },
+    "product": "Azure OpenAI",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "1"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": true,
+    "meters": [
+      "embedding-ada-datazone Tokens",
+      "embedding-ada-glbl Tokens",
+      "embedding-ada-regional Tokens"
+    ],
+    "name": "text-embedding-ada-002",
+    "prices": {
+      "DataZoneStandard": {
+        "input": 0.11
+      },
+      "GlobalStandard": {
+        "input": 0.1
+      },
+      "Standard": {
+        "input": 0.11
+      }
+    },
+    "product": "Azure OpenAI",
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "2"
+  },
+  {
+    "currency": "USD",
+    "format": "OpenAI",
+    "matched": false,
+    "meters": [],
+    "name": "whisper",
+    "prices": {},
+    "product": null,
+    "ptu_per_hour": {},
+    "unit": "1M tokens",
+    "version": "001"
+  }
+]

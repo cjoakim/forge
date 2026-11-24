@@ -1,0 +1,41 @@
+[project]
+name = "forge-data-wrangling"
+version = "1.0.0"
+dependencies = [
+  "certifi>=2026.10.23",
+  "httpx>=0.28.1",
+  "Jinja2>=3.1.4",
+  "jiter>=0.19.0",
+  "openai>=3.49.0",
+  "python-dotenv>=1.2.3",
+  "requests>=2.34.2",
+  "urllib3>=2.8.0",
+]
+requires-python = ">=3.14"
+description = "Data Wrangling for the Forge Accelerator"
+readme = "readme.md"
+keywords = ["python", "uk", "football", "epl"]
+classifiers = [
+  "Programming Language :: Python"
+]
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+ignore = ["E722"]
+
+[tool.pylint]
+max-line-length = 120          # Set maximum line length
+output-format = "colorized"    # Set output format
+
+[tool.pylint.messages_control]
+# Disable everything, then re-enable all errors (E*) plus selected warnings.
+# W0404: reimported (module imported more than once)
+disable = ["all"]
+enable = ["E", "reimported"]
+
+[tool.pylint.typecheck]
+# This entry handles OS-specific functions that are not available on all platforms.
+# Even the python standard library has some OS-specific differences.
+generated-members = ["os.startfile", "os.killpg", "os.getpgid", "os.setsid"]

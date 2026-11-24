@@ -1,0 +1,75 @@
+{
+  "name": "cities",
+  "fields": [
+    {
+      "name": "id",
+      "key": "true",
+      "type": "Edm.String",
+      "searchable": "true",
+      "filterable": "true",
+      "sortable": "true",
+      "facetable": "true"
+    },
+    {
+      "name": "city_name",
+      "type": "Edm.String",
+      "searchable": "true",
+      "filterable": "true",
+      "sortable": "true",
+      "facetable": "true"
+    },
+    {
+      "name": "country",
+      "type": "Edm.String",
+      "searchable": "true",
+      "filterable": "true",
+      "sortable": "true",
+      "facetable": "true"
+    },
+    {
+      "name": "population",
+      "type": "Edm.Int32",
+      "searchable": "false",
+      "filterable": "true",
+      "sortable": "true",
+      "facetable": "true"
+    },
+    {
+      "name": "notes",
+      "type": "Edm.String",
+      "searchable": "true",
+      "filterable": "true",
+      "sortable": "true",
+      "facetable": "true"
+    },
+    {
+        "name": "embedding",
+        "type": "Collection(Edm.Single)",
+        "searchable": true,
+        "retrievable": false,
+        "stored": false,
+        "dimensions": 1536,
+        "vectorSearchProfile": "cities-vector-profile"
+    }
+  ],
+  "vectorSearch": {
+    "profiles": [
+      {
+        "name": "cities-vector-profile",
+        "algorithm": "hnsw-algorithm"
+      }
+    ],
+    "algorithms": [
+      {
+        "name": "hnsw-algorithm",
+        "kind": "hnsw",
+        "hnswParameters": {
+          "metric": "cosine",
+          "m": 4,
+          "efConstruction": 400,
+          "efSearch": 500
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "agents": {
+    "agent_framework_foundry_hosting_version": "==1.0.0b261015",
+    "agent_framework_foundry_version": ">=1.15.0",
+    "agent_image": "TODO",
+    "agent_name": "none",
+    "azure_ai_agents_version": ">=1.0.0",
+    "azure_ai_agentserver_responses_version": ">=2.3.0",
+    "container_cpu": "2.0",
+    "container_memory": "4Gi",
+    "docker_image_version": "1",
+    "dockerfile_base_image": "python:3.12-slim",
+    "model_deployment_name": "gpt-4.1-mini",
+    "user": "cjoakim"
+  },
+  "app": {
+    "agents_dir": "agents",
+    "app_root_dir": "."
+  }
+}

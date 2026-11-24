@@ -1,0 +1,43 @@
+{
+    "id": 11644,
+    "name": "Matty Cash",
+    "firstName": "Matty",
+    "lastName": "Cash",
+    "dateOfBirth": "1997-08-07",
+    "nationality": "Poland",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-15T09:25:42Z",
+    "currentTeam": {
+        "area": {
+            "id": 2186,
+            "name": "Poland",
+            "code": "POL",
+            "flag": "https://crests.football-data.org/794.svg"
+        },
+        "id": 794,
+        "name": "Poland",
+        "shortName": "Poland",
+        "tla": "POL",
+        "crest": "https://crests.football-data.org/794.svg",
+        "address": "Bitwy Warszawskiej 1920 r., 7 Warszawa 02366",
+        "website": "http://www.pzpn.pl",
+        "founded": 1919,
+        "clubColors": "White / Red",
+        "venue": "Stadion Energa Gda\u0144sk",
+        "runningCompetitions": [
+            {
+                "id": 2182,
+                "name": "UEFA Nations League",
+                "code": "UNL",
+                "type": "CUP",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": "2021-11",
+            "until": null
+        }
+    }
+}

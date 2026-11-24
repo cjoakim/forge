@@ -1,0 +1,43 @@
+{
+    "id": 84506,
+    "name": "Giorgi Mamardashvili",
+    "firstName": "Giorgi",
+    "lastName": "Mamardashvili",
+    "dateOfBirth": "2000-09-29",
+    "nationality": "Georgia",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 1,
+    "lastUpdated": "2023-07-30T17:05:48Z",
+    "currentTeam": {
+        "area": {
+            "id": 2087,
+            "name": "Georgia",
+            "code": "GEO",
+            "flag": null
+        },
+        "id": 1978,
+        "name": "Georgia",
+        "shortName": "Georgia",
+        "tla": "GEO",
+        "crest": "https://crests.football-data.org/ge.svg",
+        "address": "76a Chavchavadze Ave. Tbilisi 0179",
+        "website": "http://www.gff.ge",
+        "founded": 1990,
+        "clubColors": "White / Red",
+        "venue": "Boris Paichadzis Dinamo Arena",
+        "runningCompetitions": [
+            {
+                "id": 2182,
+                "name": "UEFA Nations League",
+                "code": "UNL",
+                "type": "CUP",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": "2021-09",
+            "until": null
+        }
+    }
+}

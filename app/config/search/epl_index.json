@@ -1,0 +1,132 @@
+{
+  "name": "epl",
+  "fields": [
+    {
+      "name": "id",
+      "type": "Edm.String",
+      "key": true,
+      "searchable": false,
+      "filterable": true,
+      "sortable": true,
+      "facetable": false,
+      "retrievable": true
+    },
+    {
+      "name": "doctype",
+      "type": "Edm.String",
+      "searchable": "true",
+      "filterable": "true",
+      "sortable": "true",
+      "facetable": "false"
+    },
+
+    {
+      "name": "lc_team",
+      "type": "Edm.String",
+      "searchable": "true",
+      "filterable": "true",
+      "sortable": "true",
+      "facetable": "false"
+    },
+
+    {
+      "name": "venue",
+      "type": "Edm.String",
+      "searchable": "true",
+      "filterable": "true",
+      "sortable": "true",
+      "facetable": "false"
+    },
+
+    {
+      "name": "address",
+      "type": "Edm.String",
+      "searchable": "true",
+      "filterable": "true",
+      "sortable": "true",
+      "facetable": "false"
+    },
+
+    {
+      "name": "lc_home_team",
+      "type": "Edm.String",
+      "searchable": "true",
+      "filterable": "true",
+      "sortable": "true",
+      "facetable": "false"
+    },
+    {
+      "name": "lc_away_team",
+      "type": "Edm.String",
+      "searchable": "true",
+      "filterable": "true",
+      "sortable": "true",
+      "facetable": "false"
+    },
+    {
+      "name": "date",
+      "type": "Edm.String",
+      "searchable": "true",
+      "filterable": "true",
+      "sortable": "true",
+      "facetable": "false"
+    },
+    {
+      "name": "matchday",
+      "type": "Edm.Int32",
+      "searchable": "false",
+      "filterable": "true",
+      "sortable": "true",
+      "facetable": "false"
+    },
+
+    {
+      "name": "firstName",
+      "type": "Edm.String",
+      "searchable": "true",
+      "filterable": "true",
+      "sortable": "true",
+      "facetable": "false"
+    },
+    {
+      "name": "lastName",
+      "type": "Edm.String",
+      "searchable": "true",
+      "filterable": "true",
+      "sortable": "true",
+      "facetable": "false"
+    },
+    {
+      "name": "position",
+      "type": "Edm.String",
+      "searchable": "true",
+      "filterable": "true",
+      "sortable": "true",
+      "facetable": "false"
+    },
+    {
+      "name": "nationality",
+      "type": "Edm.String",
+      "searchable": "true",
+      "filterable": "true",
+      "sortable": "true",
+      "facetable": "false"
+    },
+    {
+      "name": "dateOfBirth",
+      "type": "Edm.String",
+      "searchable": "true",
+      "filterable": "true",
+      "sortable": "true",
+      "facetable": "false"
+    },
+    {
+      "name": "shirtNumber",
+      "type": "Edm.Int32",
+      "searchable": "false",
+      "filterable": "true",
+      "sortable": "true",
+      "facetable": "false"
+    }
+  ]
+}

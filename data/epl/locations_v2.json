@@ -1,0 +1,142 @@
+{
+    "arsenal": {
+        "type": "Point",
+        "coordinates": [
+            -0.1084,
+            51.5549
+        ]
+    },
+    "aston villa": {
+        "type": "Point",
+        "coordinates": [
+            -1.8848,
+            52.5092
+        ]
+    },
+    "bournemouth": {
+        "type": "Point",
+        "coordinates": [
+            -1.8384,
+            50.7352
+        ]
+    },
+    "brentford": {
+        "type": "Point",
+        "coordinates": [
+            -0.2886,
+            51.4907
+        ]
+    },
+    "brighton hove": {
+        "type": "Point",
+        "coordinates": [
+            -0.0837,
+            50.8619
+        ]
+    },
+    "chelsea": {
+        "type": "Point",
+        "coordinates": [
+            -0.191,
+            51.4817
+        ]
+    },
+    "coventry city": {
+        "type": "Point",
+        "coordinates": [
+            -1.4956,
+            52.4482
+        ]
+    },
+    "crystal palace": {
+        "type": "Point",
+        "coordinates": [
+            -0.0855,
+            51.3983
+        ]
+    },
+    "everton": {
+        "type": "Point",
+        "coordinates": [
+            -2.9958,
+            53.4443
+        ]
+    },
+    "fulham": {
+        "type": "Point",
+        "coordinates": [
+            -0.2217,
+            51.4749
+        ]
+    },
+    "hull city": {
+        "type": "Point",
+        "coordinates": [
+            -0.3663,
+            53.7461
+        ]
+    },
+    "ipswich town": {
+        "type": "Point",
+        "coordinates": [
+            1.1451,
+            52.0552
+        ]
+    },
+    "leeds united": {
+        "type": "Point",
+        "coordinates": [
+            -1.5722,
+            53.7778
+        ]
+    },
+    "liverpool": {
+        "type": "Point",
+        "coordinates": [
+            -2.9608,
+            53.4308
+        ]
+    },
+    "man city": {
+        "type": "Point",
+        "coordinates": [
+            -2.2004,
+            53.4831
+        ]
+    },
+    "man united": {
+        "type": "Point",
+        "coordinates": [
+            -2.2913,
+            53.4631
+        ]
+    },
+    "newcastle": {
+        "type": "Point",
+        "coordinates": [
+            -1.6217,
+            54.9756
+        ]
+    },
+    "nottingham": {
+        "type": "Point",
+        "coordinates": [
+            -1.1328,
+            52.94
+        ]
+    },
+    "sunderland": {
+        "type": "Point",
+        "coordinates": [
+            -1.3883,
+            54.9144
+        ]
+    },
+    "tottenham": {
+        "type": "Point",
+        "coordinates": [
+            -0.0664,
+            51.6043
+        ]
+    }
+}

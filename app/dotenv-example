@@ -1,0 +1,43 @@
+
+AZURE_AI_SEARCH_NAME="srch-xxx"
+AZURE_AI_SEARCH_REGION="southcentralus"
+AZURE_AI_SEARCH_URL="https://srch-xxx.search.windows.net"
+AZURE_AI_SEARCH_VERSION="2025-09-01"
+
+AZURE_CONTAINER_REGISTRY_ENDPOINT="crcxxx.azurecr.io"
+
+AZURE_FOUNDRY_NAME="aif-xxx"
+AZURE_FOUNDRY_PROJECT_NAME="epl"
+AZURE_FOUNDRY_PROJECT_URL="https://aif-xxx.services.ai.azure.com/api/projects/epl"
+AZURE_FOUNDRY_REGION="southcentralus"
+AZURE_FOUNDRY_URL="https://aif-xxx.openai.azure.com/"
+AZURE_FOUNDRY_VECTOR_STORE_ID="vs_xxxxxxxxxxxxxxxxxxxxxxxx"
+
+AZURE_COSMOSDB_NOSQL_AUTHTYPE="entra"
+AZURE_COSMOSDB_NOSQL_URI="https://cosmos-xxx.documents.azure.com:443/"
+
+AZURE_REGION="southcentralus"
+AZURE_RESOURCE_GROUP="rrrrrr"
+AZURE_STORAGE_ACCOUNT_NAME="stcxxx"
+AZURE_STORAGE_ACCOUNT_URL="https://stcxxx.blob.core.windows.net/"
+AZURE_SUBSCRIPTION_ID="xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+
+FOUNDRY_PROJECT_ENDPOINT="https://aif-xxx.services.ai.azure.com/api/projects/epl"
+
+# The AZURE_AI_PROJECT_ID value is obtained by:
+# 1) First edit the above environment variables per your Forge deployment
+# 2) Then run either 'source ./set-os-env.sh' or '.\set-os-env.ps1' to set your OS environment variables
+# 3) Then run either './rg.sh get-ai-project-id.sh' or  '.\rg.sh get-ai-project-id.ps1' in the same terminal window as 2).
+#    The output will be the AZURE_AI_PROJECT_ID value.
+AZURE_AI_PROJECT_ID="/subscriptions/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/resourceGroups/rrrrrr/providers/Microsoft.CognitiveServices/accounts/aif-xxx/projects/epl"
+
+FORGE_AGENT_CPU="0.5"
+FORGE_AGENT_MAX_REPLICAS="1"
+FORGE_AGENT_MEMORY="1Gi"
+FORGE_AGENT_MIN_REPLICAS="0"
+FORGE_AGENT_ROLE_SCOPE="project"
+FORGE_AGENT_ROLE="Foundry User"
+FORGE_AGENT_SEARCH_ROLE="Search Index Data Contributor"
+FORGE_AGENT_SHOW_LOGS="false"
+FORGE_AGENT_STORAGE_ROLE="Storage Blob Data Contributor"
+

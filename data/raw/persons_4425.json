@@ -1,0 +1,43 @@
+{
+    "id": 4425,
+    "name": "John Egan",
+    "firstName": "John",
+    "lastName": "Egan",
+    "dateOfBirth": "1992-10-20",
+    "nationality": "Ireland",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": 5,
+    "lastUpdated": "2026-07-15T09:25:44Z",
+    "currentTeam": {
+        "area": {
+            "id": 2192,
+            "name": "Republic of Ireland",
+            "code": "IRL",
+            "flag": "https://crests.football-data.org/806.svg"
+        },
+        "id": 806,
+        "name": "Ireland",
+        "shortName": "Ireland",
+        "tla": "IRL",
+        "crest": "https://crests.football-data.org/806.svg",
+        "address": "National Sports Campus, Abbotstown Dublin 15",
+        "website": "http://www.fai.ie",
+        "founded": 1921,
+        "clubColors": "Green / White / Orange",
+        "venue": "Aviva Stadium",
+        "runningCompetitions": [
+            {
+                "id": 2182,
+                "name": "UEFA Nations League",
+                "code": "UNL",
+                "type": "CUP",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": "2017-03",
+            "until": null
+        }
+    }
+}

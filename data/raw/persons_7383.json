@@ -1,0 +1,43 @@
+{
+    "id": 7383,
+    "name": "Kostas Tsimikas",
+    "firstName": "Kostas",
+    "lastName": "Tsimikas",
+    "dateOfBirth": "1996-05-12",
+    "nationality": "Greece",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": 21,
+    "lastUpdated": "2026-07-15T09:25:43Z",
+    "currentTeam": {
+        "area": {
+            "id": 2093,
+            "name": "Greece",
+            "code": "GRC",
+            "flag": "https://crests.football-data.org/775.svg"
+        },
+        "id": 775,
+        "name": "Greece",
+        "shortName": "Greece",
+        "tla": "GRE",
+        "crest": "https://crests.football-data.org/775.svg",
+        "address": "Goudi Park / PO Box 14161 Ath\u00edna 11510",
+        "website": "http://www.epo.gr",
+        "founded": 1926,
+        "clubColors": "Blue / White",
+        "venue": "Olympiako Stadio Spyros Louis",
+        "runningCompetitions": [
+            {
+                "id": 2182,
+                "name": "UEFA Nations League",
+                "code": "UNL",
+                "type": "CUP",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": "2018-10",
+            "until": null
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": 142075,
+    "name": "Maxim De Cuyper",
+    "firstName": "Maxim",
+    "lastName": "De Cuyper",
+    "dateOfBirth": "2000-12-22",
+    "nationality": "Belgium",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": 5,
+    "lastUpdated": "2024-06-12T17:56:51Z",
+    "currentTeam": {
+        "area": {
+            "id": 2023,
+            "name": "Belgium",
+            "code": "BEL",
+            "flag": "https://crests.football-data.org/805.svg"
+        },
+        "id": 805,
+        "name": "Belgium",
+        "shortName": "Belgium",
+        "tla": "BEL",
+        "crest": "https://crests.football-data.org/805.svg",
+        "address": "145, avenue Houba de Strooper Brussels 1020",
+        "website": "https://www.rbfa.be",
+        "founded": 1895,
+        "clubColors": "Red / Black / Yellow",
+        "venue": null,
+        "runningCompetitions": [
+            {
+                "id": 2182,
+                "name": "UEFA Nations League",
+                "code": "UNL",
+                "type": "CUP",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": "2024-06",
+            "until": null
+        }
+    }
+}

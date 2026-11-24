@@ -1,0 +1,43 @@
+{
+    "id": 144434,
+    "name": "Christos Tzolis",
+    "firstName": "Christos",
+    "lastName": "Tzolis",
+    "dateOfBirth": "2002-01-30",
+    "nationality": "Greece",
+    "section": "Offence",
+    "position": "Offence",
+    "shirtNumber": 10,
+    "lastUpdated": "2026-07-23T17:46:22Z",
+    "currentTeam": {
+        "area": {
+            "id": 2093,
+            "name": "Greece",
+            "code": "GRC",
+            "flag": "https://crests.football-data.org/775.svg"
+        },
+        "id": 775,
+        "name": "Greece",
+        "shortName": "Greece",
+        "tla": "GRE",
+        "crest": "https://crests.football-data.org/775.svg",
+        "address": "Goudi Park / PO Box 14161 Ath\u00edna 11510",
+        "website": "http://www.epo.gr",
+        "founded": 1926,
+        "clubColors": "Blue / White",
+        "venue": "Olympiako Stadio Spyros Louis",
+        "runningCompetitions": [
+            {
+                "id": 2182,
+                "name": "UEFA Nations League",
+                "code": "UNL",
+                "type": "CUP",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": "2020-10",
+            "until": null
+        }
+    }
+}

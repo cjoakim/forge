@@ -1,0 +1,73 @@
+<html>
+    <head>
+        <title>Add a Map</title>
+
+        <style>
+            gmp-map {
+                height: 100%;
+            }
+            html,
+            body {
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+          </style>
+        <script type="module">
+            const stadiums = {{ stadiums_json }};
+
+            async function init() {
+                // Request the needed libraries.
+                const [{ AdvancedMarkerElement }, { InfoWindow }] = await Promise.all([
+                    google.maps.importLibrary('marker'),
+                    google.maps.importLibrary('maps'),
+                ]);
+                // Get the gmp-map element.
+                const mapElement = document.querySelector('gmp-map');
+
+                // Get the inner map.
+                const innerMap = mapElement.innerMap;
+
+                // Set map options.
+                innerMap.setOptions({
+                    mapTypeControl: true,
+                });
+
+                const infoWindow = new InfoWindow();
+
+                stadiums.forEach((stadium) => {
+                    const marker = new AdvancedMarkerElement({
+                        map: innerMap,
+                        position: { lat: stadium.lat, lng: stadium.lng },
+                        title: stadium.team_name,
+                    });
+
+                    marker.addListener('click', () => {
+                        infoWindow.setContent(
+                            `<div>
+                                <strong>${stadium.team_name}</strong><br>
+                                ${stadium.city}<br>
+                                ${stadium.stadium_name}
+                            </div>`
+                        );
+                        infoWindow.open({ anchor: marker, map: innerMap });
+                    });
+                });
+            }
+            void init();
+
+        </script>
+        <script>
+            (g=>{var h,a,k,p="The Google Maps JavaScript API",c="google",l="importLibrary",q="__ib__",m=document,b=window;b=b[c]||(b[c]={});var d=b.maps||(b.maps={}),r=new Set,e=new URLSearchParams,u=()=>h||(h=new Promise(async(f,n)=>{await (a=m.createElement("script"));e.set("libraries",[...r]+"");for(k in g)e.set(k.replace(/[A-Z]/g,t=>"_"+t[0].toLowerCase()),g[k]);e.set("callback",c+".maps."+q);a.src=`https://maps.${c}apis.com/maps/api/js?`+e;d[q]=f;a.onerror=()=>h=n(Error(p+" could not load."));a.nonce=m.querySelector("script[nonce]")?.nonce||"";m.head.append(a)}));d[l]?console.warn(p+" only loads once. Ignoring:",g):d[l]=(f,...n)=>r.add(f)&&u().then(()=>d[l](f,...n))})({
+                key: "{{ GOOGLE_MAPS_KEY }}"
+            });
+        </script>
+    </head>
+    <body>
+        <gmp-map center="52.589485, -1.08243" zoom="7" map-id="epl_map">
+            <div id="controls" slot="control-inline-start-block-start">
+                <h3>English Premier League Map</h3>
+            </div>
+        </gmp-map>
+    </body>
+</html>

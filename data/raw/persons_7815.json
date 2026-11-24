@@ -1,0 +1,43 @@
+{
+    "id": 7815,
+    "name": "Ethan Ampadu",
+    "firstName": "Ethan",
+    "lastName": "Ampadu",
+    "dateOfBirth": "2000-09-14",
+    "nationality": "Wales",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": 5,
+    "lastUpdated": "2026-07-15T09:25:44Z",
+    "currentTeam": {
+        "area": {
+            "id": 2264,
+            "name": "Wales",
+            "code": "WAL",
+            "flag": "https://crests.football-data.org/833.svg"
+        },
+        "id": 833,
+        "name": "Wales",
+        "shortName": "Wales",
+        "tla": "WAL",
+        "crest": "https://crests.football-data.org/833.svg",
+        "address": "11/12 Neptune Court, Vanguard Way Cardiff CF24 5PJ",
+        "website": "http://www.faw.org.uk",
+        "founded": 1876,
+        "clubColors": "Red / White",
+        "venue": "Cardiff City Stadium",
+        "runningCompetitions": [
+            {
+                "id": 2182,
+                "name": "UEFA Nations League",
+                "code": "UNL",
+                "type": "CUP",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": "2017-11",
+            "until": null
+        }
+    }
+}

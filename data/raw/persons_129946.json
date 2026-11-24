@@ -1,0 +1,43 @@
+{
+    "id": 129946,
+    "name": "Senne Lammens",
+    "firstName": "Senne",
+    "lastName": "Lammens",
+    "dateOfBirth": "2002-07-07",
+    "nationality": "Belgium",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 12,
+    "lastUpdated": "2023-08-22T13:27:54Z",
+    "currentTeam": {
+        "area": {
+            "id": 2023,
+            "name": "Belgium",
+            "code": "BEL",
+            "flag": "https://crests.football-data.org/805.svg"
+        },
+        "id": 805,
+        "name": "Belgium",
+        "shortName": "Belgium",
+        "tla": "BEL",
+        "crest": "https://crests.football-data.org/805.svg",
+        "address": "145, avenue Houba de Strooper Brussels 1020",
+        "website": "https://www.rbfa.be",
+        "founded": 1895,
+        "clubColors": "Red / Black / Yellow",
+        "venue": null,
+        "runningCompetitions": [
+            {
+                "id": 2182,
+                "name": "UEFA Nations League",
+                "code": "UNL",
+                "type": "CUP",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": "2025-11",
+            "until": null
+        }
+    }
+}
